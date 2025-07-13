@@ -11,6 +11,12 @@ Past Events to be filtered out of event list
 
 # Release Notes; 
 
+## Version 0.1.2
+Fixed grading offset logic
+Added an easter egg for true Kendo Masters
+Updated Grading Requirements with the link to the BKA Website 
+
+
 ## Version 0.1.1
 Web scraping deployed (Local solution for the moment) All Kendo Events for the next 30 years loaded - Or at least the ones that have been added to the calendar
 

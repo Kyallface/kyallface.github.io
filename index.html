@@ -5,6 +5,7 @@
   <title>Kendo Grading Calculator</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script defer src="grading-calculator.js"></script>
   <style>
     body {
       font-family: sans-serif;
@@ -77,10 +78,6 @@
     .hidden {
       display: none !important;
     }
-    .highlight {
-       background-color: #d4fdd9;
-       font-weight: bold;
-    }
 
     #next-grade {
       margin-top: 1.5rem;
@@ -106,24 +103,19 @@
       text-align: left;
     }
 
-
-    th {
-      background-color: #f0f0f0;
-      font-weight: bold;
+    .highlight {
+      background-color: #ffeeba !important;
     }
 
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
+    footer {
+      margin-top: 3rem;
+      text-align: center;
+      font-size: 0.85rem;
+      color: #888;
     }
   </style>
 </head>
 <body>
-
   <h1>Kendo Grading Calculator</h1>
   <div class="main-content">
     <div class="form-area">
@@ -136,18 +128,18 @@
           <div class="field-group" style="flex: 1">
             <label for="highest-grade">Highest Grade Achieved</label>
             <select id="highest-grade">
-  <option value="">-- Select --</option>
-  <option value="ungraded">Ungraded</option>
-  <option value="ikkyu">0 - Ikkyu</option>
-  <option value="shodan">1 - Shodan</option>
-  <option value="nidan">2 - Nidan</option>
-  <option value="sandan">3 - Sandan</option>
-  <option value="yondan">4 - Yondan</option>
-  <option value="godan">5 - Godan</option>
-  <option value="rokudan">6 - Rokudan</option>
-  <option value="nanadan">7 - Nanadan</option>
-  <option value="hachidan">8 - Hachidan</option>
-</select>
+              <option value="">-- Select --</option>
+              <option value="ungraded">Ungraded</option>
+              <option value="ikkyu">0 - Ikkyu</option>
+              <option value="shodan">1 - Shodan</option>
+              <option value="nidan">2 - Nidan</option>
+              <option value="sandan">3 - Sandan</option>
+              <option value="yondan">4 - Yondan</option>
+              <option value="godan">5 - Godan</option>
+              <option value="rokudan">6 - Rokudan</option>
+              <option value="nanadan">7 - Nanadan</option>
+              <option value="hachidan">8 - Hachidan</option>
+            </select>
           </div>
 
           <div class="field-group" id="current-grade-date" style="flex: 1; display: none;">
@@ -160,6 +152,7 @@
           <h3>Next Grade Eligibility</h3>
           <p id="earliest-date">Select your highest grade to see your next eligible date.</p>
           <p id="next-event">Matching event will be shown here if available.</p>
+          <div id="future-progression"></div>
         </div>
       </form>
     </div>
@@ -192,20 +185,12 @@
           <th>Link</th>
         </tr>
       </thead>
-      <tbody id="events-table">
-      </tbody>
+      <tbody id="events-table"></tbody>
     </table>
   </div>
 
-<script src="grading-calculator.js"></script>
-
-<footer class="page-footer">
-  <p><strong>Version:</strong> 0.1.1</p>
-  <p>Notes: Last Updated 2025-07-13 by Kyall Fordham-Weir. 
-    Events are scraped from https://www.britishkendoassociation.com/calendar/ 
-    Grading details are not held within the calendar so all grading levels are set to 'godan' 
-    - To be updated to properly scrape the event pages (At some point)
-    See : https://github.com/Kyallface/kyallface.github.io</p>
-</footer>
+  <footer>
+    Updated 2025-07-13 Version 1.0.2 &mdash; Built by Kyall Fordham-Weir | For issues and roadmap <a href="https://github.com/Kyallface/kyallface.github.io">GitHub</a>
+  </footer>
 </body>
 </html>

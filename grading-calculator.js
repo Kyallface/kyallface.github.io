@@ -40,14 +40,17 @@ function updateEligibility() {
   }
 
   const currentIndex = gradeOrder.indexOf(grade);
-  const nextGrade = gradeOrder[currentIndex + 1]; // <-- DEFINE THIS BEFORE USING IT
+  const nextGrade = gradeOrder[currentIndex + 1];
 
-  let eligibleDate = new Date(currentDate);
-  for (let i = currentIndex + 1; i <= currentIndex + 1; i--) {
-    const req = gradeRequirements[gradeOrder[i]];
-    if (!req) break;
-    eligibleDate = addTime(eligibleDate, req.offset);
+  if (!nextGrade) {
+    earliestDateP.innerHTML = "There are no more gradings available to you. You have successfully completed Kendo.";
+    nextEventP.innerHTML = "";
+    loadedEvents.forEach(e => e.rowElement?.classList.remove("highlight"));
+    return;
   }
+
+  const nextReq = gradeRequirements[nextGrade];
+  let eligibleDate = addTime(currentDate, nextReq?.offset || {});
 
   const eligibleStr = eligibleDate.toISOString().split('T')[0];
   earliestDateP.innerHTML = `Earliest possible grading date for <strong>${nextGrade}</strong>: <strong>${eligibleStr}</strong>`;
@@ -66,8 +69,24 @@ function updateEligibility() {
   } else {
     nextEventP.innerHTML = `<em>No upcoming grading events found after your eligibility date.</em>`;
   }
-}
 
+  const futureGradesHTML = [];
+  let projectedDate = new Date(eligibleDate);
+
+  for (let i = currentIndex + 2; i <= currentIndex + 3 && i < gradeOrder.length; i++) {
+    const gradeName = gradeOrder[i];
+    const req = gradeRequirements[gradeName];
+    if (!req) break;
+
+    projectedDate = addTime(projectedDate, req.offset);
+    const dateStr = projectedDate.toISOString().split('T')[0];
+    futureGradesHTML.push(`<strong>${gradeName.charAt(0).toUpperCase() + gradeName.slice(1)}</strong>: ${dateStr}`);
+  }
+
+  if (futureGradesHTML.length > 0) {
+    nextEventP.innerHTML += `<br><br>If you pass, you could do:<br>${futureGradesHTML.join('<br>')}`;
+  }
+}
 
 function loadCSVEvents() {
   Papa.parse("grading-events.csv", {
