@@ -4,16 +4,44 @@
   <meta charset="UTF-8">
   <title>Kendo Grading Calculator</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
   <style>
     body {
       font-family: sans-serif;
       background: #f4f4f4;
-      max-width: 600px;
+      max-width: 1000px;
       margin: 2rem auto;
       padding: 1rem;
       background-color: white;
       border-radius: 10px;
       box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+    }
+
+    .main-content {
+      display: flex;
+      gap: 2rem;
+    }
+
+    .form-area {
+      flex: 1;
+    }
+
+    .grade-row {
+      display: flex;
+      align-items: flex-end;
+      gap: 1rem;
+    }
+
+    .requirements {
+      width: 300px;
+      background-color: #f9f9f9;
+      padding: 1rem;
+      border-radius: 8px;
+      border: 1px solid #ddd;
+      font-size: 0.95rem;
     }
 
     h1 {
@@ -33,7 +61,7 @@
       font-weight: bold;
     }
 
-    input[type="date"] {
+    input[type="date"], select {
       width: 100%;
       padding: 0.5rem;
       font-size: 1rem;
@@ -45,67 +73,135 @@
     .field-group {
       margin-bottom: 1rem;
     }
+
+    .hidden {
+      display: none !important;
+    }
+    .highlight {
+       background-color: #d4fdd9;
+       font-weight: bold;
+    }
+
+    #next-grade {
+      margin-top: 1.5rem;
+      padding: 1rem;
+      background-color: #e8f4ea;
+      border-radius: 8px;
+      border: 1px solid #b2d8bf;
+    }
+
+    #events {
+      margin-top: 2rem;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+    }
+
+    th, td {
+      padding: 0.5rem;
+      border: 1px solid #ccc;
+      text-align: left;
+    }
+
+
+    th {
+      background-color: #f0f0f0;
+      font-weight: bold;
+    }
+
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
 
   <h1>Kendo Grading Calculator</h1>
+  <div class="main-content">
+    <div class="form-area">
+      <div class="description">
+        Select the highest grade you’ve achieved. Enter the date for that grade to calculate your next eligibility.
+      </div>
 
-  <div class="description">
-    Enter the dates you achieved each grade. This calculator will help determine when you're eligible for your next grading and show you the next available events.
+      <form id="grading-form">
+        <div class="grade-row">
+          <div class="field-group" style="flex: 1">
+            <label for="highest-grade">Highest Grade Achieved</label>
+            <select id="highest-grade">
+  <option value="">-- Select --</option>
+  <option value="ungraded">Ungraded</option>
+  <option value="ikkyu">0 - Ikkyu</option>
+  <option value="shodan">1 - Shodan</option>
+  <option value="nidan">2 - Nidan</option>
+  <option value="sandan">3 - Sandan</option>
+  <option value="yondan">4 - Yondan</option>
+  <option value="godan">5 - Godan</option>
+  <option value="rokudan">6 - Rokudan</option>
+  <option value="nanadan">7 - Nanadan</option>
+  <option value="hachidan">8 - Hachidan</option>
+</select>
+          </div>
+
+          <div class="field-group" id="current-grade-date" style="flex: 1; display: none;">
+            <label for="current-grade-date-input">Date Achieved</label>
+            <input type="date" id="current-grade-date-input" name="current-grade-date-input">
+          </div>
+        </div>
+
+        <div id="next-grade">
+          <h3>Next Grade Eligibility</h3>
+          <p id="earliest-date">Select your highest grade to see your next eligible date.</p>
+          <p id="next-event">Matching event will be shown here if available.</p>
+        </div>
+      </form>
+    </div>
+
+    <div class="requirements">
+      <h3>Grading Requirements</h3>
+        <a href="https://www.britishkendoassociation.com/grading-requirements/"> Details </a>
+      <ul>
+        <li><strong>0 - Ikkyu</strong>: 6 months after starting, at least 12 years old</li>
+        <li><strong>1 - Shodan</strong>: 3 months after Ikkyu, atleast 13 years old</li>
+        <li><strong>2 - Nidan</strong>: 1 year after 1st Dan</li>
+        <li><strong>3 - Sandan</strong>: 2 years after 2nd Dan</li>
+        <li><strong>4 - Yondan</strong>: 3 years after 3rd Dan</li>
+        <li><strong>5 - Godan</strong>: 4 years after 4th Dan</li>
+        <li><strong>6 - Rokudan</strong>: 5 years after 5th Dan</li>
+        <li><strong>7 - Nanadan</strong>: 6 years after 6th Dan</li>
+        <li><strong>8 - Hachidan</strong>: 10 years after 7th Dan, atleast 46 years old</li>
+      </ul>
+    </div>
   </div>
 
-  <form id="grading-form">
-    <div class="field-group">
-      <label for="date-started">Date Started</label>
-      <input type="date" id="date-started" name="date-started">
-    </div>
+  <div id="events">
+    <h3>Upcoming Grading Events</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Event Name</th>
+          <th>Date</th>
+          <th>Grading Level</th>
+          <th>Link</th>
+        </tr>
+      </thead>
+      <tbody id="events-table">
+      </tbody>
+    </table>
+  </div>
 
-    <div class="field-group">
-      <label for="ikkyu">Ikkyu</label>
-      <input type="date" id="ikkyu" name="ikkyu">
-    </div>
+<script src="grading-calculator.js"></script>
 
-    <div class="field-group">
-      <label for="shodan">1st Dan</label>
-      <input type="date" id="shodan" name="shodan">
-    </div>
-
-    <div class="field-group">
-      <label for="nidan">2nd Dan</label>
-      <input type="date" id="nidan" name="nidan">
-    </div>
-
-    <div class="field-group">
-      <label for="sandan">3rd Dan</label>
-      <input type="date" id="sandan" name="sandan">
-    </div>
-
-    <div class="field-group">
-      <label for="yondan">4th Dan</label>
-      <input type="date" id="yondan" name="yondan">
-    </div>
-
-    <div class="field-group">
-      <label for="godan">5th Dan</label>
-      <input type="date" id="godan" name="godan">
-    </div>
-
-    <div class="field-group">
-      <label for="rokudan">6th Dan</label>
-      <input type="date" id="rokudan" name="rokudan">
-    </div>
-
-    <div class="field-group">
-      <label for="nanadan">7th Dan</label>
-      <input type="date" id="nanadan" name="nanadan">
-    </div>
-
-    <div class="field-group">
-      <label for="hachidan">8th Dan</label>
-      <input type="date" id="hachidan" name="hachidan">
-    </div>
-  </form>
-
+<footer class="page-footer">
+  <p><strong>Version:</strong> 0.1.0</p>
+  <p>Notes: Last Updated 2025-07-13 by Kyall Fordham-Weir. Events are manually loaded and not updated live.</p>
+</footer>
 </body>
 </html>

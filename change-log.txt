@@ -1,0 +1,12 @@
+# Kendo Grading Clock
+I don't like that the BKA website has mentions of a grading clock that doesn't exist, so I did it myself. 
+Very basic but, it serves the purpose that I need it for. 
+Currently only does Kendo and needs to be manualy updated
+
+I am not affilitated or in any way linked to the British Kendo Association. This is a hobby project done 'for fun' 
+
+# Release Notes; 
+
+## Version 0.1.0
+Beta release, core logic is working, events need to be manually added to the 'grading-events.csv'. These are taken from the BKA Website.
+This will be updated to web-scape (if possible) in the future or load from an 'ical' file if they offer it - I genuinly don't know
