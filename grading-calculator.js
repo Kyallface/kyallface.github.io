@@ -80,13 +80,13 @@ function updateEligibility() {
     const req = gradeRequirements[gradeName];
     if (!req) break;
 
-    projectedDate = addTime(projectedDate, req.offset);
+    projectedDate = addTime(nextEvent.date, req.offset);
     const dateStr = projectedDate.toISOString().split('T')[0];
     futureGradesHTML.push(`<strong>${gradeName.charAt(0).toUpperCase() + gradeName.slice(1)}</strong>: ${dateStr}`);
   }
 
   if (futureGradesHTML.length > 0) {
-    nextEventP.innerHTML += `<br><br>If you pass, you could do:<br>${futureGradesHTML.join('<br>')}`;
+    nextEventP.innerHTML += `<br><br>If you pass, you would be eligible for:<br>${futureGradesHTML.join('<br>')}`;
   }
 }
 
