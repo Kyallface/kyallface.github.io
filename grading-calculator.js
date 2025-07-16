@@ -89,7 +89,7 @@ function updateEligibility() {
 }
 
 function loadCSVEvents() {
-  Papa.parse("grading-events.csv", {
+  Papa.parse("bka_grading_events.csv", {
     download: true,
     header: true,
     complete: function(results) {
