@@ -53,7 +53,9 @@ function updateEligibility() {
   let eligibleDate = addTime(currentDate, nextReq?.offset || {});
 
   const eligibleStr = eligibleDate.toISOString().split('T')[0];
-  earliestDateP.innerHTML = `Earliest possible grading date for <strong>${nextGrade}</strong>: <strong>${eligibleStr}</strong>`;
+  const capitalizedNextGrade = nextGrade.charAt(0).toUpperCase() + nextGrade.slice(1);
+
+  earliestDateP.innerHTML = `Earliest possible grading date for <strong>${capitalizedNextGrade}</strong>: <strong>${eligibleStr}</strong>`;
 
   loadedEvents.forEach(e => e.rowElement?.classList.remove("highlight"));
 

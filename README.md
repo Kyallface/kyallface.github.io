@@ -11,6 +11,18 @@ Past Events to be filtered out of event list
 
 # Release Notes; 
 
+## Version 0.1.3
+Moved Scraping Script into main repo
+Updated Scraping Script to check webpages for events to get the 'Grading Level' for each event (NOTE: This is only working if the format is Exam : GRADE - GRADE). This works for the BKA Summer Seminar as an example (2025-07-31). This needs to be improved as the format is not always consistant across event pages 
+Setup a github action for this to refresh daily 
+Minor formatting changes and title changes; 
+BKA Grading Requirements Link updated 
+Consistancy in grade names (using Shodan - format rather than 1st, 2nd ect.) 
+Capitalisation on Next Grade Eligibility
+Capitalisation on Grading Level
+Added an 'Unknown / TBC' option in the Grading Level
+Updated Version Number
+
 ## Version 0.1.2
 Fixed grading offset logic
 Added an easter egg for true Kendo Masters
