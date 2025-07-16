@@ -23,9 +23,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch origin
-          git stash --include-untracked
-          git rebase origin/main
+          git pull
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -47,6 +45,6 @@ jobs:
 
       - name: Commit and Push Updated Files
         run: |
-          git add bka_grading_events.csv bka_raw_events.json
+          git add .
           git commit -m "Auto-update events data [skip ci]" || echo "No changes to commit"
-          git push origin main
+          git push 
