@@ -159,7 +159,7 @@
     "className": [
       "eo-event-venue-north-cambridge-academy-sports-hall",
       "eo-event-cat-iaido",
-      "eo-event-running",
+      "eo-event-past",
       "eo-all-day",
       "eo-event",
       "eo-past-event",
@@ -424,6 +424,36 @@
     "color": "#372272"
   },
   {
+    "title": "\u201cFar Mountain\u201d Kata Seminar",
+    "url": "https://www.britishkendoassociation.com/events/event/far-mountain-kata-seminar/",
+    "allDay": false,
+    "start": "2025-10-25T10:00:00",
+    "end": "2025-10-25T17:00:00",
+    "description": "October 25, 2025  10:00 am - 5:00 pm</br></br>Seminar date: Saturday 25th October 2025 Instructors: Paul Budden &amp; Kazuyo Matsuda, both Kendo 7-dan Kyoshi Venue: The Dunstable Centre,\u00a0Court...",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-the-dunstable-centre",
+      "eo-event-cat-kendo",
+      "eo-event-tag-seminar",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-the-dunstable-centre",
+      "category-kendo",
+      "tag-seminar"
+    ],
+    "venue": 225,
+    "venue_slug": "the-dunstable-centre",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "seminar"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
     "title": "Iaido Northern Seminar 2025",
     "url": "https://www.britishkendoassociation.com/events/event/7630/",
     "allDay": true,
@@ -484,6 +514,32 @@
       "kendo",
       "taikai"
     ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
+    "title": "Ladies Kendo & Tea Party",
+    "url": "https://www.britishkendoassociation.com/events/event/ladies-kendo-tea-party/",
+    "allDay": false,
+    "start": "2025-11-22T11:00:00",
+    "end": "2025-11-22T15:30:00",
+    "description": "November 22, 2025  11:00 am - 3:30 pm</br></br>Event date: Sunday 2nd November 2025 Venue: The Dunstable Centre, Court Drive, Dunstable, LU5 4JD, England Event Schedule: 11:00 \u2013...",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-the-dunstable-centre",
+      "eo-event-cat-kendo",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-the-dunstable-centre",
+      "category-kendo"
+    ],
+    "venue": 225,
+    "venue_slug": "the-dunstable-centre",
+    "category": [
+      "kendo"
+    ],
+    "tags": [],
     "textColor": "#ffffff",
     "color": "#372272"
   },
