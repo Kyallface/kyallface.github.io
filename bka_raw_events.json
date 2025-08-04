@@ -190,7 +190,7 @@
       "eo-event-tag-british-kendo-association-summer-seminar",
       "eo-event-tag-kendo",
       "eo-event-tag-seminar",
-      "eo-event-running",
+      "eo-event-past",
       "eo-multi-day",
       "eo-event",
       "eo-past-event",
@@ -226,7 +226,7 @@
     "className": [
       "eo-event-venue-cambridge-university-sports-centre",
       "eo-event-cat-jodo",
-      "eo-event-running",
+      "eo-event-past",
       "eo-multi-day",
       "eo-all-day",
       "eo-event",
