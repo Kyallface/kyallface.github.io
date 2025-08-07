@@ -272,6 +272,32 @@
     "color": "#bbbbbb"
   },
   {
+    "title": "Iaido Squad/IT Practice August 2025 \u2013 Newcastle",
+    "url": "https://www.britishkendoassociation.com/events/event/7995/",
+    "allDay": false,
+    "start": "2025-08-30T10:00:00",
+    "end": "2025-08-30T16:00:00",
+    "description": "August 30, 2025  10:00 am - 4:00 pm</br></br>Location: Excelsior Academy Sports Hall Denton Road Newcastle upon Tyne NE15 6AF Times: 10:00 start - 16:00 finish Costs: Whole...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-excelsior-academy",
+      "eo-event-cat-iaido",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-excelsior-academy",
+      "category-iaido"
+    ],
+    "venue": 94,
+    "venue_slug": "excelsior-academy",
+    "category": [
+      "iaido"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
+  },
+  {
     "title": "Jodo Squad/IT Practice Sep 2025 \u2013 Birmingham",
     "url": "https://www.britishkendoassociation.com/events/event/jodo-squad-it-practice-sep-2025-birmingham/",
     "allDay": true,
@@ -482,6 +508,32 @@
     "color": "#bbbbbb"
   },
   {
+    "title": "Ladies Kendo & Tea Party",
+    "url": "https://www.britishkendoassociation.com/events/event/ladies-kendo-tea-party/",
+    "allDay": false,
+    "start": "2025-11-02T11:00:00",
+    "end": "2025-11-02T15:30:00",
+    "description": "November 2, 2025  11:00 am - 3:30 pm</br></br>Event date: Sunday 2nd November 2025 Venue: The Dunstable Centre, Court Drive, Dunstable, LU5 4JD, England Event Schedule: 11:00 \u2013...",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-the-dunstable-centre",
+      "eo-event-cat-kendo",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-the-dunstable-centre",
+      "category-kendo"
+    ],
+    "venue": 225,
+    "venue_slug": "the-dunstable-centre",
+    "category": [
+      "kendo"
+    ],
+    "tags": [],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
     "title": "Mumeishi 3s 2025",
     "url": "https://www.britishkendoassociation.com/events/event/mumeishi-3s-2025/",
     "allDay": false,
@@ -514,32 +566,6 @@
       "kendo",
       "taikai"
     ],
-    "textColor": "#ffffff",
-    "color": "#372272"
-  },
-  {
-    "title": "Ladies Kendo & Tea Party",
-    "url": "https://www.britishkendoassociation.com/events/event/ladies-kendo-tea-party/",
-    "allDay": false,
-    "start": "2025-11-22T11:00:00",
-    "end": "2025-11-22T15:30:00",
-    "description": "November 22, 2025  11:00 am - 3:30 pm</br></br>Event date: Sunday 2nd November 2025 Venue: The Dunstable Centre, Court Drive, Dunstable, LU5 4JD, England Event Schedule: 11:00 \u2013...",
-    "organiser": 12,
-    "className": [
-      "eo-event-venue-the-dunstable-centre",
-      "eo-event-cat-kendo",
-      "eo-event-future",
-      "eo-event",
-      "eo-future-event",
-      "venue-the-dunstable-centre",
-      "category-kendo"
-    ],
-    "venue": 225,
-    "venue_slug": "the-dunstable-centre",
-    "category": [
-      "kendo"
-    ],
-    "tags": [],
     "textColor": "#ffffff",
     "color": "#372272"
   },
