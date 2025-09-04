@@ -383,6 +383,32 @@
     "color": "#372272"
   },
   {
+    "title": "Open IT/Squad Practice \u2013 Kenyukan Dojo",
+    "url": "https://www.britishkendoassociation.com/events/event/open-it-squad-practice-kenyukan-dojo/",
+    "allDay": false,
+    "start": "2025-10-04T09:00:00",
+    "end": "2025-10-04T16:00:00",
+    "description": "October 4, 2025  9:00 am - 4:00 pm</br></br>Location: West Wickham Village Hall, High Street, West Wickham, Cambridge, CB21 4SH Times: 09:00 for a 10:00 start - 16:00...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-kenyukan-suffolk",
+      "eo-event-cat-iaido",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-kenyukan-suffolk",
+      "category-iaido"
+    ],
+    "venue": 239,
+    "venue_slug": "kenyukan-suffolk",
+    "category": [
+      "iaido"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
+  },
+  {
     "title": "Southern Grading 2025",
     "url": "https://www.britishkendoassociation.com/events/event/southern-grading-2025/",
     "allDay": false,
