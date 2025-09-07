@@ -308,7 +308,7 @@
     "className": [
       "eo-event-venue-woodrush-sports-centre-birmingham",
       "eo-event-cat-jodo",
-      "eo-event-running",
+      "eo-event-past",
       "eo-all-day",
       "eo-event",
       "eo-past-event",
@@ -336,10 +336,10 @@
       "eo-event-cat-kendo",
       "eo-event-tag-kendo",
       "eo-event-tag-squad-training",
-      "eo-event-future",
+      "eo-event-running",
       "eo-multi-day",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "category-kendo",
       "tag-kendo",
       "tag-squad-training"
