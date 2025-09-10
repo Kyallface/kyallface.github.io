@@ -9,7 +9,7 @@ from time import sleep
 url = "https://www.britishkendoassociation.com/wp-admin/admin-ajax.php"
 params = {
     "action": "eventorganiser-fullcal",
-    "start": "2025-06-30",
+    "start": "2025-10-01",
     "end": "2050-08-04",
     "timeformat": "g:i a"
 }
