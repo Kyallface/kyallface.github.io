@@ -405,6 +405,32 @@
     "color": "#372272"
   },
   {
+    "title": "Kata N\u2019 Keiko",
+    "url": "https://www.britishkendoassociation.com/events/event/kata-n-keiko/",
+    "allDay": false,
+    "start": "2025-12-06T12:00:00",
+    "end": "2025-12-06T16:00:00",
+    "description": "December 6, 2025  12:00 pm - 4:00 pm</br></br>The 2nd Kata N\u2019 Keiko hosted by Shin Sei Dojo. This event will cover all the Nihon Kendo kata grading...",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-shoreham-academy",
+      "eo-event-cat-kendo",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-shoreham-academy",
+      "category-kendo"
+    ],
+    "venue": 240,
+    "venue_slug": "shoreham-academy",
+    "category": [
+      "kendo"
+    ],
+    "tags": [],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
     "title": "Squad Kendo Training",
     "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-12/",
     "allDay": false,
