@@ -177,6 +177,34 @@
     "color": "#bbbbbb"
   },
   {
+    "title": "Jodo Northern Seminar 2025",
+    "url": "https://www.britishkendoassociation.com/events/event/jodo-northern-seminar-2025/",
+    "allDay": true,
+    "start": "2025-11-01T00:00:00",
+    "end": "2025-11-03T00:00:00",
+    "description": "November 1 - 2, 2025 </br></br>Location: Kenton School, Drayton Road, Newcastle upon Tyne NE3 3RU NOTE: Access is via Kenton Road just south of the...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-kenton-school",
+      "eo-event-cat-jodo",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-all-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-kenton-school",
+      "category-jodo"
+    ],
+    "venue": 123,
+    "venue_slug": "kenton-school",
+    "category": [
+      "jodo"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#ffbc70"
+  },
+  {
     "title": "Ladies Kendo & Tea Party",
     "url": "https://www.britishkendoassociation.com/events/event/ladies-kendo-tea-party/",
     "allDay": false,
