@@ -36,9 +36,9 @@
     "className": [
       "eo-event-cat-kendo",
       "eo-event-tag-taikai",
-      "eo-event-future",
+      "eo-event-running",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "category-kendo",
       "tag-taikai"
     ],
