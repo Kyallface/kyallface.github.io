@@ -587,6 +587,35 @@
     "color": "#372272"
   },
   {
+    "title": "Level 1 Coaching course \u2013 Iaido/Jodo",
+    "url": "https://www.britishkendoassociation.com/events/event/level-1-coaching-course-iaido-jodo-3/",
+    "allDay": false,
+    "start": "2026-01-17T09:30:00",
+    "end": "2026-01-17T17:00:00",
+    "description": "January 17, 2026  9:30 am - 5:00 pm</br></br>Location: British Antarctic Survey High Cross Madingley Road Cambridge CB22 0ET Times: Saturday - 09:30 for a 10:00 start -...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-british-antarctic-survey-cambridge",
+      "eo-event-cat-iaido",
+      "eo-event-cat-jodo",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-british-antarctic-survey-cambridge",
+      "category-iaido",
+      "category-jodo"
+    ],
+    "venue": 191,
+    "venue_slug": "british-antarctic-survey-cambridge",
+    "category": [
+      "iaido",
+      "jodo"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
+  },
+  {
     "title": "January Ikkyu/Sandan Grading & Godo-geiko\u00a02026",
     "url": "https://www.britishkendoassociation.com/events/event/january-ikkyu-sandan-grading-godo-geiko-2026/",
     "allDay": false,
