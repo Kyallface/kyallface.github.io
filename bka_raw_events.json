@@ -159,11 +159,11 @@
     "className": [
       "eo-event-venue-kenton-school",
       "eo-event-cat-iaido",
-      "eo-event-future",
+      "eo-event-running",
       "eo-multi-day",
       "eo-all-day",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "venue-kenton-school",
       "category-iaido"
     ],
@@ -187,11 +187,11 @@
     "className": [
       "eo-event-venue-kenton-school",
       "eo-event-cat-jodo",
-      "eo-event-future",
+      "eo-event-running",
       "eo-multi-day",
       "eo-all-day",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "venue-kenton-school",
       "category-jodo"
     ],
