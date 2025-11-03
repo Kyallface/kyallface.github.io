@@ -159,7 +159,7 @@
     "className": [
       "eo-event-venue-kenton-school",
       "eo-event-cat-iaido",
-      "eo-event-running",
+      "eo-event-past",
       "eo-multi-day",
       "eo-all-day",
       "eo-event",
@@ -187,7 +187,7 @@
     "className": [
       "eo-event-venue-kenton-school",
       "eo-event-cat-jodo",
-      "eo-event-running",
+      "eo-event-past",
       "eo-multi-day",
       "eo-all-day",
       "eo-event",
@@ -215,9 +215,9 @@
     "className": [
       "eo-event-venue-the-dunstable-centre",
       "eo-event-cat-kendo",
-      "eo-event-future",
+      "eo-event-past",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "venue-the-dunstable-centre",
       "category-kendo"
     ],
