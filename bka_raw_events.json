@@ -298,7 +298,7 @@
   },
   {
     "title": "Squad Kendo Training",
-    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-13/",
+    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-12/",
     "allDay": false,
     "start": "2025-11-22T12:30:00",
     "end": "2025-11-23T13:30:00",
@@ -332,7 +332,7 @@
   },
   {
     "title": "Squad Kendo Training",
-    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-12/",
+    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-13/",
     "allDay": false,
     "start": "2025-11-22T12:30:00",
     "end": "2025-11-23T13:30:00",
@@ -585,6 +585,33 @@
     ],
     "textColor": "#ffffff",
     "color": "#372272"
+  },
+  {
+    "title": "Jodo Kangeiko 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/jodo-kangeiko-2026/",
+    "allDay": false,
+    "start": "2026-01-03T09:00:00",
+    "end": "2026-01-04T15:00:00",
+    "description": "January 3, 2026  9:00 am - 4, 2026  3:00 pm</br></br>Times: Saturday Kangeiko - 09:00 Registration for a 9:30 start - 17:00 finish Sunday Koryu &amp; Referee Training - 09:30...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-kenmukan-dojo",
+      "eo-event-cat-jodo",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-kenmukan-dojo",
+      "category-jodo"
+    ],
+    "venue": 25,
+    "venue_slug": "kenmukan-dojo",
+    "category": [
+      "jodo"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#ffbc70"
   },
   {
     "title": "Level 1 Coaching course \u2013 Iaido/Jodo",
