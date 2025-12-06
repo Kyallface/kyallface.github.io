@@ -705,24 +705,93 @@
     "color": "#bbbbbb"
   },
   {
+    "title": "Trevor Chapman Memorial Kendo no Kata Taikai",
+    "url": "https://www.britishkendoassociation.com/events/event/trevor-chapman-memorial-kendo-no-kata-taikai/",
+    "allDay": true,
+    "start": "2026-03-07T00:00:00",
+    "end": "2026-03-08T00:00:00",
+    "description": "March 7, 2026 </br></br>",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-ravenshead-leisure-centre",
+      "eo-event-cat-kendo",
+      "eo-event-tag-competition",
+      "eo-event-tag-taikai",
+      "eo-event-future",
+      "eo-all-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-ravenshead-leisure-centre",
+      "category-kendo",
+      "tag-competition",
+      "tag-taikai"
+    ],
+    "venue": 241,
+    "venue_slug": "ravenshead-leisure-centre",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "competition",
+      "taikai"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
     "title": "University Taikai 2026",
-    "url": "https://www.britishkendoassociation.com/events/event/university-taikai-2026/",
+    "url": "https://www.britishkendoassociation.com/events/event/university-taikai-2026-2/",
     "allDay": false,
-    "start": "2026-04-10T09:00:00",
-    "end": "2026-04-10T18:00:00",
-    "description": "April 10, 2026  9:00 am - 6:00 pm</br></br>Tentative date",
+    "start": "2026-04-11T09:00:00",
+    "end": "2026-04-12T17:00:00",
+    "description": "April 11, 2026  9:00 am - 12, 2026  5:00 pm</br></br>",
     "organiser": 12,
     "className": [
       "eo-event-cat-kendo",
       "eo-event-tag-competition",
       "eo-event-tag-taikai",
       "eo-event-future",
+      "eo-multi-day",
       "eo-event",
       "eo-future-event",
       "category-kendo",
       "tag-competition",
       "tag-taikai"
     ],
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "competition",
+      "taikai"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
+    "title": "Masters Taikai & British Open",
+    "url": "https://www.britishkendoassociation.com/events/event/masters-taikai-british-open-2/",
+    "allDay": false,
+    "start": "2026-07-25T10:00:00",
+    "end": "2026-07-26T17:00:00",
+    "description": "July 25, 2026  10:00 am - 26, 2026  5:00 pm</br></br>",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-loddon-valley-leisure-centre",
+      "eo-event-cat-kendo",
+      "eo-event-tag-competition",
+      "eo-event-tag-taikai",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-loddon-valley-leisure-centre",
+      "category-kendo",
+      "tag-competition",
+      "tag-taikai"
+    ],
+    "venue": 209,
+    "venue_slug": "loddon-valley-leisure-centre",
     "category": [
       "kendo"
     ],
