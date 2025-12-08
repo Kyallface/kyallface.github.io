@@ -769,6 +769,40 @@
     "color": "#372272"
   },
   {
+    "title": "The BKA London Kendo Seminar & Grading",
+    "url": "https://www.britishkendoassociation.com/events/event/kendo-spring-seminar-grading/",
+    "allDay": false,
+    "start": "2026-04-11T10:00:00",
+    "end": "2026-04-12T17:00:00",
+    "description": "April 11, 2026  10:00 am - 12, 2026  5:00 pm</br></br>",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-somers-town-community-sports-centre",
+      "eo-event-cat-kendo",
+      "eo-event-tag-grading",
+      "eo-event-tag-seminar",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-somers-town-community-sports-centre",
+      "category-kendo",
+      "tag-grading",
+      "tag-seminar"
+    ],
+    "venue": 184,
+    "venue_slug": "somers-town-community-sports-centre",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "grading",
+      "seminar"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
     "title": "Masters Taikai & British Open",
     "url": "https://www.britishkendoassociation.com/events/event/masters-taikai-british-open-2/",
     "allDay": false,
