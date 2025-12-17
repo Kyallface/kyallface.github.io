@@ -705,35 +705,6 @@
     "color": "#bbbbbb"
   },
   {
-    "title": "Level 2 Coaching course \u2013 Iaido/Jodo (Scotland)",
-    "url": "https://www.britishkendoassociation.com/events/event/level-2-coaching-course-iaido-jodo-scotland/",
-    "allDay": false,
-    "start": "2026-02-28T09:30:00",
-    "end": "2026-02-28T17:00:00",
-    "description": "February 28, 2026  9:30 am - 5:00 pm</br></br>Location: Walpole Hall (Sports Hall), 27 Chester Street, Edinburgh EH3 7EN Scotland Times: Saturday - 09:30 for a 10:00 start...",
-    "organiser": 3,
-    "className": [
-      "eo-event-venue-walpole-hall",
-      "eo-event-cat-iaido",
-      "eo-event-cat-jodo",
-      "eo-event-future",
-      "eo-event",
-      "eo-future-event",
-      "venue-walpole-hall",
-      "category-iaido",
-      "category-jodo"
-    ],
-    "venue": 242,
-    "venue_slug": "walpole-hall",
-    "category": [
-      "iaido",
-      "jodo"
-    ],
-    "tags": [],
-    "textColor": "#000000",
-    "color": "#bbbbbb"
-  },
-  {
     "title": "Trevor Chapman Memorial Kendo no Kata Taikai",
     "url": "https://www.britishkendoassociation.com/events/event/trevor-chapman-memorial-kendo-no-kata-taikai/",
     "allDay": true,
