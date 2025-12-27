@@ -643,6 +643,32 @@
     "color": "#bbbbbb"
   },
   {
+    "title": "Iaido Intensive Training January 2026 \u2013 Redhill (South England)",
+    "url": "https://www.britishkendoassociation.com/events/event/iaido-intensive-training-january-2026-redhill-south-england/",
+    "allDay": false,
+    "start": "2026-01-18T09:15:00",
+    "end": "2026-01-18T17:00:00",
+    "description": "January 18, 2026  9:15 am - 5:00 pm</br></br>Location: Astra Building, Main Hall, Carrington School, Noke Drive, Redhill RH1 4AD Times: 9:15 opening for a 9:30 start -...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-carrington-school",
+      "eo-event-cat-iaido",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-carrington-school",
+      "category-iaido"
+    ],
+    "venue": 243,
+    "venue_slug": "carrington-school",
+    "category": [
+      "iaido"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
+  },
+  {
     "title": "January Ikkyu/Sandan Grading & Godo-geiko\u00a02026",
     "url": "https://www.britishkendoassociation.com/events/event/january-ikkyu-sandan-grading-godo-geiko-2026/",
     "allDay": false,
