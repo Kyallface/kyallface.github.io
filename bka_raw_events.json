@@ -702,35 +702,6 @@
     "color": "#372272"
   },
   {
-    "title": "Level 2 Coaching course \u2013 Iaido/Jodo (South)",
-    "url": "https://www.britishkendoassociation.com/events/event/level-2-coaching-course-iaido-jodo-2/",
-    "allDay": false,
-    "start": "2026-01-31T09:30:00",
-    "end": "2026-01-31T17:00:00",
-    "description": "January 31, 2026  9:30 am - 5:00 pm</br></br>Location: British Antarctic Survey High Cross Madingley Road Cambridge CB22 0ET Times: Saturday - 09:30 for a 10:00 start -...",
-    "organiser": 3,
-    "className": [
-      "eo-event-venue-british-antarctic-survey-cambridge",
-      "eo-event-cat-iaido",
-      "eo-event-cat-jodo",
-      "eo-event-future",
-      "eo-event",
-      "eo-future-event",
-      "venue-british-antarctic-survey-cambridge",
-      "category-iaido",
-      "category-jodo"
-    ],
-    "venue": 191,
-    "venue_slug": "british-antarctic-survey-cambridge",
-    "category": [
-      "iaido",
-      "jodo"
-    ],
-    "tags": [],
-    "textColor": "#000000",
-    "color": "#bbbbbb"
-  },
-  {
     "title": "Trevor Chapman Memorial Kendo no Kata Taikai",
     "url": "https://www.britishkendoassociation.com/events/event/trevor-chapman-memorial-kendo-no-kata-taikai/",
     "allDay": true,
