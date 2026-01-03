@@ -597,10 +597,10 @@
     "className": [
       "eo-event-venue-kenmukan-dojo",
       "eo-event-cat-jodo",
-      "eo-event-future",
+      "eo-event-running",
       "eo-multi-day",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "venue-kenmukan-dojo",
       "category-jodo"
     ],
