@@ -624,7 +624,7 @@
     "className": [
       "eo-event-venue-queen-margaret-university",
       "eo-event-cat-iaido",
-      "eo-event-running",
+      "eo-event-past",
       "eo-event",
       "eo-past-event",
       "venue-queen-margaret-university",
@@ -651,7 +651,7 @@
       "eo-event-venue-british-antarctic-survey-cambridge",
       "eo-event-cat-iaido",
       "eo-event-cat-jodo",
-      "eo-event-running",
+      "eo-event-past",
       "eo-event",
       "eo-past-event",
       "venue-british-antarctic-survey-cambridge",
@@ -679,9 +679,9 @@
     "className": [
       "eo-event-venue-carrington-school",
       "eo-event-cat-iaido",
-      "eo-event-future",
+      "eo-event-running",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "venue-carrington-school",
       "category-iaido"
     ],
