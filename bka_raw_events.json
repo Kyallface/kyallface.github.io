@@ -759,7 +759,7 @@
     "allDay": true,
     "start": "2026-03-07T00:00:00",
     "end": "2026-03-08T00:00:00",
-    "description": "March 7, 2026 </br></br>",
+    "description": "March 7, 2026 </br></br>More information and booking are available via the link below: https://forms.gle/UY9ayxGKs1bB8SAz5 &nbsp;",
     "organiser": 12,
     "className": [
       "eo-event-venue-ravenshead-leisure-centre",
@@ -850,6 +850,60 @@
     ],
     "textColor": "#ffffff",
     "color": "#372272"
+  },
+  {
+    "title": "Iaido West Midlands Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/iaido-west-midlands-seminar-2026/",
+    "allDay": false,
+    "start": "2026-05-16T09:00:00",
+    "end": "2026-05-17T16:00:00",
+    "description": "May 16, 2026  9:00 am - 17, 2026  4:00 pm</br></br>Location: Shenley Academy, Shenley Lane, Birmingham, West Midlands B29 4HE Times: Saturday - 09:30 Registration for a 10:30 start -...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-shenley-academy",
+      "eo-event-cat-iaido",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-shenley-academy",
+      "category-iaido"
+    ],
+    "venue": 244,
+    "venue_slug": "shenley-academy",
+    "category": [
+      "iaido"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
+  },
+  {
+    "title": "Jodo West Midlands Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/jodo-west-midlands-seminar-2026/",
+    "allDay": false,
+    "start": "2026-05-16T09:00:00",
+    "end": "2026-05-17T16:00:00",
+    "description": "May 16, 2026  9:00 am - 17, 2026  4:00 pm</br></br>Location: Shenley Academy, Shenley Lane, Birmingham, West Midlands B29 4HE Times: Saturday - 09:30 Registration for a 10:30 start -...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-shenley-academy",
+      "eo-event-cat-jodo",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-shenley-academy",
+      "category-jodo"
+    ],
+    "venue": 244,
+    "venue_slug": "shenley-academy",
+    "category": [
+      "jodo"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#ffbc70"
   },
   {
     "title": "Masters Taikai & British Open",
