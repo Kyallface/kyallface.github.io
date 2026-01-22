@@ -460,7 +460,7 @@
   },
   {
     "title": "Squad Kendo Training",
-    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-14/",
+    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-12/",
     "allDay": false,
     "start": "2025-12-13T12:30:00",
     "end": "2025-12-14T13:30:00",
@@ -494,7 +494,7 @@
   },
   {
     "title": "Squad Kendo Training",
-    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-12/",
+    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-14/",
     "allDay": false,
     "start": "2025-12-13T12:30:00",
     "end": "2025-12-14T13:30:00",
@@ -841,6 +841,36 @@
     ],
     "venue": 184,
     "venue_slug": "somers-town-community-sports-centre",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "grading",
+      "seminar"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
+    "title": "The BKA Glasgow Kendo Seminar & Grading",
+    "url": "https://www.britishkendoassociation.com/events/event/the-bka-glasgow-kendo-seminar-grading/",
+    "allDay": false,
+    "start": "2026-04-25T10:00:00",
+    "end": "2026-04-26T17:00:00",
+    "description": "April 25, 2026  10:00 am - 26, 2026  5:00 pm</br></br>",
+    "organiser": 12,
+    "className": [
+      "eo-event-cat-kendo",
+      "eo-event-tag-grading",
+      "eo-event-tag-seminar",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "category-kendo",
+      "tag-grading",
+      "tag-seminar"
+    ],
     "category": [
       "kendo"
     ],
