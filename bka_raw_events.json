@@ -788,6 +788,33 @@
     "color": "#372272"
   },
   {
+    "title": "Jodo Spring Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/jodo-spring-seminar-2026/",
+    "allDay": false,
+    "start": "2026-03-14T09:30:00",
+    "end": "2026-03-15T16:00:00",
+    "description": "March 14, 2026  9:30 am - 15, 2026  4:00 pm</br></br>Location: The Coleshill Secondary School, Coventry Rd, Coleshill, Birmingham B46 3EX Times: Saturday - 09:30 Registration for a 10:00 start...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-coleshill-secondary-school",
+      "eo-event-cat-jodo",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-coleshill-secondary-school",
+      "category-jodo"
+    ],
+    "venue": 246,
+    "venue_slug": "coleshill-secondary-school",
+    "category": [
+      "jodo"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#ffbc70"
+  },
+  {
     "title": "University Taikai 2026",
     "url": "https://www.britishkendoassociation.com/events/event/university-taikai-2026-2/",
     "allDay": false,
