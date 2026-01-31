@@ -738,9 +738,9 @@
     "className": [
       "eo-event-venue-kenyukan-suffolk",
       "eo-event-cat-iaido",
-      "eo-event-future",
+      "eo-event-running",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "venue-kenyukan-suffolk",
       "category-iaido"
     ],
@@ -847,7 +847,7 @@
     "allDay": false,
     "start": "2026-04-11T09:00:00",
     "end": "2026-04-12T17:00:00",
-    "description": "April 11, 2026  9:00 am - 12, 2026  5:00 pm</br></br>",
+    "description": "April 11, 2026  9:00 am - 12, 2026  5:00 pm</br></br>Registration and more information are available via the link: https://docs.google.com/forms/d/e/1FAIpQLSeyoQbiWNb2zZX9_6AXOCNaS8iQd8LeTwxGVVAIGO7Ljl6D2w/viewform?usp=dialog The deadline of registration is March 20th 2026. No late...",
     "organiser": 12,
     "className": [
       "eo-event-cat-kendo",
@@ -931,6 +931,40 @@
     "tags": [
       "grading",
       "seminar"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
+    "title": "London Cup 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/london-cup-2026/",
+    "allDay": false,
+    "start": "2026-05-01T20:00:00",
+    "end": "2026-05-03T17:30:00",
+    "description": "May 1, 2026  8:00 pm - 3, 2026  5:30 pm</br></br>Friday:- Welcome Jigeiko Saturday:- Teams of 5 mixed (limited to two teams per dojo) Sunday:- Ladies individual 2nd Dan and...",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-london-nautical-school-community-sport-hall",
+      "eo-event-cat-kendo",
+      "eo-event-tag-competition",
+      "eo-event-tag-taikai",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-london-nautical-school-community-sport-hall",
+      "category-kendo",
+      "tag-competition",
+      "tag-taikai"
+    ],
+    "venue": 12,
+    "venue_slug": "london-nautical-school-community-sport-hall",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "competition",
+      "taikai"
     ],
     "textColor": "#ffffff",
     "color": "#372272"
