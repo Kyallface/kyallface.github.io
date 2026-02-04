@@ -842,6 +842,40 @@
     "color": "#ffbc70"
   },
   {
+    "title": "The BKA London Kendo Seminar & Grading",
+    "url": "https://www.britishkendoassociation.com/events/event/kendo-spring-seminar-grading/",
+    "allDay": false,
+    "start": "2026-04-10T19:00:00",
+    "end": "2026-04-12T18:00:00",
+    "description": "April 10, 2026  7:00 pm - 12, 2026  6:00 pm</br></br>Friday 7pm - 10pm\u00a0 Kendo no Kata (all forms) Saturday\u00a0 9-6pm\u00a0 Kendo Kaizen Sunday Grading from Ikkyu to Godan",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-somers-town-community-sports-centre",
+      "eo-event-cat-kendo",
+      "eo-event-tag-grading",
+      "eo-event-tag-seminar",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-somers-town-community-sports-centre",
+      "category-kendo",
+      "tag-grading",
+      "tag-seminar"
+    ],
+    "venue": 184,
+    "venue_slug": "somers-town-community-sports-centre",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "grading",
+      "seminar"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
     "title": "University Taikai 2026",
     "url": "https://www.britishkendoassociation.com/events/event/university-taikai-2026-2/",
     "allDay": false,
@@ -867,40 +901,6 @@
     "tags": [
       "competition",
       "taikai"
-    ],
-    "textColor": "#ffffff",
-    "color": "#372272"
-  },
-  {
-    "title": "The BKA London Kendo Seminar & Grading",
-    "url": "https://www.britishkendoassociation.com/events/event/kendo-spring-seminar-grading/",
-    "allDay": false,
-    "start": "2026-04-11T10:00:00",
-    "end": "2026-04-12T17:00:00",
-    "description": "April 11, 2026  10:00 am - 12, 2026  5:00 pm</br></br>",
-    "organiser": 12,
-    "className": [
-      "eo-event-venue-somers-town-community-sports-centre",
-      "eo-event-cat-kendo",
-      "eo-event-tag-grading",
-      "eo-event-tag-seminar",
-      "eo-event-future",
-      "eo-multi-day",
-      "eo-event",
-      "eo-future-event",
-      "venue-somers-town-community-sports-centre",
-      "category-kendo",
-      "tag-grading",
-      "tag-seminar"
-    ],
-    "venue": 184,
-    "venue_slug": "somers-town-community-sports-centre",
-    "category": [
-      "kendo"
-    ],
-    "tags": [
-      "grading",
-      "seminar"
     ],
     "textColor": "#ffffff",
     "color": "#372272"
