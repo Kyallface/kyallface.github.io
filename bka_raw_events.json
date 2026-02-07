@@ -788,6 +788,33 @@
     "color": "#372272"
   },
   {
+    "title": "Jodo Spring Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/jodo-spring-seminar-2026/",
+    "allDay": false,
+    "start": "2026-03-14T09:30:00",
+    "end": "2026-03-15T16:00:00",
+    "description": "March 14, 2026  9:30 am - 15, 2026  4:00 pm</br></br>Location: The Coleshill Secondary School, Coventry Rd, Coleshill, Birmingham B46 3EX Times: Saturday - 09:30 Registration for a 10:00 start...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-coleshill-secondary-school",
+      "eo-event-cat-jodo",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-coleshill-secondary-school",
+      "category-jodo"
+    ],
+    "venue": 246,
+    "venue_slug": "coleshill-secondary-school",
+    "category": [
+      "jodo"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#ffbc70"
+  },
+  {
     "title": "Iaido Spring Seminar 2026",
     "url": "https://www.britishkendoassociation.com/events/event/iaido-spring-seminar-2026/",
     "allDay": false,
@@ -815,25 +842,50 @@
     "color": "#bbbbbb"
   },
   {
-    "title": "Jodo Spring Seminar 2026",
-    "url": "https://www.britishkendoassociation.com/events/event/jodo-spring-seminar-2026/",
+    "title": "Jodo Nationals 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/jodo-nationals-2026/",
     "allDay": false,
-    "start": "2026-03-14T09:30:00",
-    "end": "2026-03-15T16:00:00",
-    "description": "March 14, 2026  9:30 am - 15, 2026  4:00 pm</br></br>Location: The Coleshill Secondary School, Coventry Rd, Coleshill, Birmingham B46 3EX Times: Saturday - 09:30 Registration for a 10:00 start...",
+    "start": "2026-03-28T09:30:00",
+    "end": "2026-03-28T16:45:00",
+    "description": "March 28, 2026  9:30 am - 4:45 pm</br></br>Location: Stage Hall,\u200b DSLV E-Act Academy,\u200b Hawke Rd,\u200b Daventry\u200b NN11 4LJ Times: 09:30 registration for a 10:30 start - 16:45...",
     "organiser": 3,
     "className": [
-      "eo-event-venue-coleshill-secondary-school",
+      "eo-event-venue-danetre-and-southbrook-learning-village",
       "eo-event-cat-jodo",
       "eo-event-future",
-      "eo-multi-day",
       "eo-event",
       "eo-future-event",
-      "venue-coleshill-secondary-school",
+      "venue-danetre-and-southbrook-learning-village",
       "category-jodo"
     ],
-    "venue": 246,
-    "venue_slug": "coleshill-secondary-school",
+    "venue": 247,
+    "venue_slug": "danetre-and-southbrook-learning-village",
+    "category": [
+      "jodo"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#ffbc70"
+  },
+  {
+    "title": "Post-Nationals Koryu/Seitei Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/post-nationals-koryu-seitei-seminar-2026/",
+    "allDay": false,
+    "start": "2026-03-29T09:30:00",
+    "end": "2026-03-29T16:45:00",
+    "description": "March 29, 2026  9:30 am - 4:45 pm</br></br>Location: Stage Hall,\u200b DSLV E-Act Academy,\u200b Hawke Rd,\u200b Daventry\u200b NN11 4LJ Times: 09:30 registration for a 10:00 start - 16:45...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-danetre-and-southbrook-learning-village",
+      "eo-event-cat-jodo",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-danetre-and-southbrook-learning-village",
+      "category-jodo"
+    ],
+    "venue": 247,
+    "venue_slug": "danetre-and-southbrook-learning-village",
     "category": [
       "jodo"
     ],
@@ -911,9 +963,10 @@
     "allDay": false,
     "start": "2026-04-25T10:00:00",
     "end": "2026-04-26T17:00:00",
-    "description": "April 25, 2026  10:00 am - 26, 2026  5:00 pm</br></br>",
+    "description": "April 25, 2026  10:00 am - 26, 2026  5:00 pm</br></br>Saturday - Seminar Sunday - Grading from Ikkyu to Yondan",
     "organiser": 12,
     "className": [
+      "eo-event-venue-glasgow-club-scotstoun",
       "eo-event-cat-kendo",
       "eo-event-tag-grading",
       "eo-event-tag-seminar",
@@ -921,10 +974,13 @@
       "eo-multi-day",
       "eo-event",
       "eo-future-event",
+      "venue-glasgow-club-scotstoun",
       "category-kendo",
       "tag-grading",
       "tag-seminar"
     ],
+    "venue": 248,
+    "venue_slug": "glasgow-club-scotstoun",
     "category": [
       "kendo"
     ],
