@@ -840,33 +840,6 @@
     "color": "#372272"
   },
   {
-    "title": "Jodo Spring Seminar 2026",
-    "url": "https://www.britishkendoassociation.com/events/event/jodo-spring-seminar-2026/",
-    "allDay": false,
-    "start": "2026-03-14T09:30:00",
-    "end": "2026-03-15T16:00:00",
-    "description": "March 14, 2026  9:30 am - 15, 2026  4:00 pm</br></br>Location: The Coleshill Secondary School, Coventry Rd, Coleshill, Birmingham B46 3EX Times: Saturday - 09:30 Registration for a 10:00 start...",
-    "organiser": 3,
-    "className": [
-      "eo-event-venue-coleshill-secondary-school",
-      "eo-event-cat-jodo",
-      "eo-event-future",
-      "eo-multi-day",
-      "eo-event",
-      "eo-future-event",
-      "venue-coleshill-secondary-school",
-      "category-jodo"
-    ],
-    "venue": 246,
-    "venue_slug": "coleshill-secondary-school",
-    "category": [
-      "jodo"
-    ],
-    "tags": [],
-    "textColor": "#000000",
-    "color": "#ffbc70"
-  },
-  {
     "title": "Iaido Spring Seminar 2026",
     "url": "https://www.britishkendoassociation.com/events/event/iaido-spring-seminar-2026/",
     "allDay": false,
@@ -892,6 +865,33 @@
     "tags": [],
     "textColor": "#000000",
     "color": "#bbbbbb"
+  },
+  {
+    "title": "Jodo Spring Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/jodo-spring-seminar-2026/",
+    "allDay": false,
+    "start": "2026-03-14T09:30:00",
+    "end": "2026-03-15T16:00:00",
+    "description": "March 14, 2026  9:30 am - 15, 2026  4:00 pm</br></br>Location: The Coleshill Secondary School, Coventry Rd, Coleshill, Birmingham B46 3EX Times: Saturday - 09:30 Registration for a 10:00 start...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-coleshill-secondary-school",
+      "eo-event-cat-jodo",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-coleshill-secondary-school",
+      "category-jodo"
+    ],
+    "venue": 246,
+    "venue_slug": "coleshill-secondary-school",
+    "category": [
+      "jodo"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#ffbc70"
   },
   {
     "title": "Jodo Nationals 2026",
@@ -1078,6 +1078,36 @@
     "color": "#372272"
   },
   {
+    "title": "Referee & Grading Panel Seminar",
+    "url": "https://www.britishkendoassociation.com/events/event/referee-grading-panel-seminar/",
+    "allDay": false,
+    "start": "2026-05-09T11:30:00",
+    "end": "2026-05-09T18:00:00",
+    "description": "May 9, 2026  11:30 am - 6:00 pm</br></br>Referee course open from Shodan Grading panel course open from Sandan",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-ravenshead-leisure-centre",
+      "eo-event-cat-kendo",
+      "eo-event-tag-seminar",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-ravenshead-leisure-centre",
+      "category-kendo",
+      "tag-seminar"
+    ],
+    "venue": 241,
+    "venue_slug": "ravenshead-leisure-centre",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "seminar"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
     "title": "Iaido West Midlands Seminar 2026",
     "url": "https://www.britishkendoassociation.com/events/event/iaido-west-midlands-seminar-2026/",
     "allDay": false,
@@ -1130,6 +1160,36 @@
     "tags": [],
     "textColor": "#000000",
     "color": "#ffbc70"
+  },
+  {
+    "title": "Western Kendo Seminar & Grading",
+    "url": "https://www.britishkendoassociation.com/events/event/western-kendo-seminar-grading/",
+    "allDay": false,
+    "start": "2026-06-06T09:00:00",
+    "end": "2026-06-07T17:30:00",
+    "description": "June 6, 2026  9:00 am - 7, 2026  5:30 pm</br></br>Details to be confirmed. Grading from Ikkyu to Yodan.",
+    "organiser": 12,
+    "className": [
+      "eo-event-cat-kendo",
+      "eo-event-tag-grading",
+      "eo-event-tag-seminar",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "category-kendo",
+      "tag-grading",
+      "tag-seminar"
+    ],
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "grading",
+      "seminar"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
   },
   {
     "title": "Masters Taikai & British Open",
