@@ -764,7 +764,7 @@
     "className": [
       "eo-event-venue-woodrush-sports-centre-birmingham",
       "eo-event-cat-iaido",
-      "eo-event-running",
+      "eo-event-past",
       "eo-event",
       "eo-past-event",
       "venue-woodrush-sports-centre-birmingham",
@@ -790,7 +790,7 @@
     "className": [
       "eo-event-venue-harton-academy",
       "eo-event-cat-iaido",
-      "eo-event-running",
+      "eo-event-past",
       "eo-event",
       "eo-past-event",
       "venue-harton-academy",
@@ -892,6 +892,28 @@
     "tags": [],
     "textColor": "#000000",
     "color": "#ffbc70"
+  },
+  {
+    "title": "[TBC] Iaido Intensive Training March 2026 \u2013 London (South England)",
+    "url": "https://www.britishkendoassociation.com/events/event/tbc-iaido-intensive-training-march-2026-london-south-england/",
+    "allDay": false,
+    "start": "2026-03-22T09:30:00",
+    "end": "2026-03-22T17:00:00",
+    "description": "March 22, 2026  9:30 am - 5:00 pm</br></br>Location: TBC (Likely Brooklands and Guildford) Times: 9:00 registration for a 9:30 and start - 17:00 finish Costs: Whole day...",
+    "organiser": 3,
+    "className": [
+      "eo-event-cat-iaido",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "category-iaido"
+    ],
+    "category": [
+      "iaido"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
   },
   {
     "title": "Jodo Nationals 2026",
