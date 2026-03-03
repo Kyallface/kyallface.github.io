@@ -806,6 +806,28 @@
     "color": "#bbbbbb"
   },
   {
+    "title": "Ueda-sensei Seminar Belfast",
+    "url": "https://www.britishkendoassociation.com/events/event/ueda-sensei-seminar-belfast/",
+    "allDay": false,
+    "start": "2026-03-02T20:30:00",
+    "end": "2026-03-02T21:30:00",
+    "description": "March 2, 2026  8:30 pm - 9:30 pm</br></br>Location: Royal Belfast Academical Institution, College Square East, Belfast BT1 6DL Times: Saturday - 09:30 Registration for a 10:30 start...",
+    "organiser": 3,
+    "className": [
+      "eo-event-cat-jodo",
+      "eo-event-past",
+      "eo-event",
+      "eo-past-event",
+      "category-jodo"
+    ],
+    "category": [
+      "jodo"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#ffbc70"
+  },
+  {
     "title": "Trevor Chapman Memorial Kendo no Kata Taikai",
     "url": "https://www.britishkendoassociation.com/events/event/trevor-chapman-memorial-kendo-no-kata-taikai/",
     "allDay": true,
