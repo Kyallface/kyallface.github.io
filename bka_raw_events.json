@@ -806,28 +806,6 @@
     "color": "#bbbbbb"
   },
   {
-    "title": "Ueda-sensei Seminar Belfast",
-    "url": "https://www.britishkendoassociation.com/events/event/ueda-sensei-seminar-belfast/",
-    "allDay": false,
-    "start": "2026-03-02T20:30:00",
-    "end": "2026-03-02T21:30:00",
-    "description": "March 2, 2026  8:30 pm - 9:30 pm</br></br>Location: Royal Belfast Academical Institution, College Square East, Belfast BT1 6DL Times: Saturday - 09:30 Registration for a 10:30 start...",
-    "organiser": 3,
-    "className": [
-      "eo-event-cat-jodo",
-      "eo-event-past",
-      "eo-event",
-      "eo-past-event",
-      "category-jodo"
-    ],
-    "category": [
-      "jodo"
-    ],
-    "tags": [],
-    "textColor": "#000000",
-    "color": "#ffbc70"
-  },
-  {
     "title": "Trevor Chapman Memorial Kendo no Kata Taikai",
     "url": "https://www.britishkendoassociation.com/events/event/trevor-chapman-memorial-kendo-no-kata-taikai/",
     "allDay": true,
@@ -914,6 +892,32 @@
     "tags": [],
     "textColor": "#000000",
     "color": "#ffbc70"
+  },
+  {
+    "title": "Iaido Intensive Training March 2026 \u2013 North Shields (North East)",
+    "url": "https://www.britishkendoassociation.com/events/event/iaido-intensive-training-march-2026-north-shields-north-east/",
+    "allDay": false,
+    "start": "2026-03-21T09:15:00",
+    "end": "2026-03-21T16:30:00",
+    "description": "March 21, 2026  9:15 am - 4:30 pm</br></br>Location: St Thomas More Catholic High School 85 Lynn Rd North Shields NE29 8LF Important! There will not be time...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-st-thomas-more-catholic-high-school",
+      "eo-event-cat-iaido",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-st-thomas-more-catholic-high-school",
+      "category-iaido"
+    ],
+    "venue": 208,
+    "venue_slug": "st-thomas-more-catholic-high-school",
+    "category": [
+      "iaido"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
   },
   {
     "title": "[TBC] Iaido Intensive Training March 2026 \u2013 London (South England)",
@@ -1052,6 +1056,33 @@
     ],
     "textColor": "#ffffff",
     "color": "#372272"
+  },
+  {
+    "title": "Ueda-sensei Seminar Belfast",
+    "url": "https://www.britishkendoassociation.com/events/event/ueda-sensei-seminar-belfast/",
+    "allDay": false,
+    "start": "2026-04-18T09:30:00",
+    "end": "2026-04-19T17:00:00",
+    "description": "April 18, 2026  9:30 am - 19, 2026  5:00 pm</br></br>Location: Royal Belfast Academical Institution, College Square East, Belfast BT1 6DL Times: Saturday - 09:30 Registration for a 10:30 start...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-royal-belfast-academical-institution",
+      "eo-event-cat-jodo",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-royal-belfast-academical-institution",
+      "category-jodo"
+    ],
+    "venue": 250,
+    "venue_slug": "royal-belfast-academical-institution",
+    "category": [
+      "jodo"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#ffbc70"
   },
   {
     "title": "The BKA Glasgow Kendo Seminar & Grading",
