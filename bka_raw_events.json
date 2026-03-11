@@ -920,20 +920,24 @@
     "color": "#bbbbbb"
   },
   {
-    "title": "[TBC] Iaido Intensive Training March 2026 \u2013 London (South England)",
+    "title": "Iaido Intensive Training March 2026 \u2013 London (South England)",
     "url": "https://www.britishkendoassociation.com/events/event/tbc-iaido-intensive-training-march-2026-london-south-england/",
     "allDay": false,
     "start": "2026-03-22T09:30:00",
     "end": "2026-03-22T17:00:00",
-    "description": "March 22, 2026  9:30 am - 5:00 pm</br></br>Location: TBC (Likely Brooklands and Guildford) Times: 9:00 registration for a 9:30 and start - 17:00 finish Costs: Whole day...",
+    "description": "March 22, 2026  9:30 am - 5:00 pm</br></br>Location: Brooklands Technology College, Heath Rd, Weybridge, Surrey KT13 8TT Important! There will not be time for participants to leave...",
     "organiser": 3,
     "className": [
+      "eo-event-venue-brooklands-technology-college",
       "eo-event-cat-iaido",
       "eo-event-future",
       "eo-event",
       "eo-future-event",
+      "venue-brooklands-technology-college",
       "category-iaido"
     ],
+    "venue": 251,
+    "venue_slug": "brooklands-technology-college",
     "category": [
       "iaido"
     ],
