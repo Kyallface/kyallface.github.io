@@ -298,7 +298,7 @@
   },
   {
     "title": "Squad Kendo Training",
-    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-13/",
+    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-12/",
     "allDay": false,
     "start": "2025-11-22T12:30:00",
     "end": "2025-11-23T13:30:00",
@@ -332,7 +332,7 @@
   },
   {
     "title": "Squad Kendo Training",
-    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-12/",
+    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-13/",
     "allDay": false,
     "start": "2025-11-22T12:30:00",
     "end": "2025-11-23T13:30:00",
@@ -850,7 +850,7 @@
     "className": [
       "eo-event-venue-west-coventry-academy",
       "eo-event-cat-iaido",
-      "eo-event-running",
+      "eo-event-past",
       "eo-multi-day",
       "eo-event",
       "eo-past-event",
@@ -877,7 +877,7 @@
     "className": [
       "eo-event-venue-coleshill-secondary-school",
       "eo-event-cat-jodo",
-      "eo-event-running",
+      "eo-event-past",
       "eo-multi-day",
       "eo-event",
       "eo-past-event",
@@ -1089,6 +1089,28 @@
     "color": "#ffbc70"
   },
   {
+    "title": "Iaido Scottish Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/iaido-scottish-seminar-2026/",
+    "allDay": false,
+    "start": "2026-04-25T09:30:00",
+    "end": "2026-04-26T16:30:00",
+    "description": "April 25, 2026  9:30 am - 26, 2026  4:30 pm</br></br>Location: Cleveden Secondary School 42-68 Cleveden Road Glasgow G12 0JW Times: Saturday - 9:30 Registration for a 10:00 start -...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-cleveden-secondary-school",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-cleveden-secondary-school"
+    ],
+    "venue": 140,
+    "venue_slug": "cleveden-secondary-school",
+    "category": [],
+    "tags": [],
+    "textColor": "#ffffff"
+  },
+  {
     "title": "The BKA Glasgow Kendo Seminar & Grading",
     "url": "https://www.britishkendoassociation.com/events/event/the-bka-glasgow-kendo-seminar-grading/",
     "allDay": false,
@@ -1246,9 +1268,10 @@
     "allDay": false,
     "start": "2026-06-06T09:00:00",
     "end": "2026-06-07T17:30:00",
-    "description": "June 6, 2026  9:00 am - 7, 2026  5:30 pm</br></br>Details to be confirmed. Grading from Ikkyu to Yodan.",
+    "description": "June 6, 2026  9:00 am - 7, 2026  5:30 pm</br></br>Seminar themes: Kihon for successful kendo Connecting kihon to your grading / shiai Kata and its application to shinai kendo...",
     "organiser": 12,
     "className": [
+      "eo-event-venue-uwe",
       "eo-event-cat-kendo",
       "eo-event-tag-grading",
       "eo-event-tag-seminar",
@@ -1256,10 +1279,13 @@
       "eo-multi-day",
       "eo-event",
       "eo-future-event",
+      "venue-uwe",
       "category-kendo",
       "tag-grading",
       "tag-seminar"
     ],
+    "venue": 218,
+    "venue_slug": "uwe",
     "category": [
       "kendo"
     ],
@@ -1299,6 +1325,68 @@
     ],
     "tags": [
       "competition",
+      "taikai"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
+    "title": "The 7th BKA Summer International Seminar & Grading",
+    "url": "https://www.britishkendoassociation.com/events/event/the-7th-bka-summer-international-seminar-grading/",
+    "allDay": true,
+    "start": "2026-08-20T00:00:00",
+    "end": "2026-08-24T00:00:00",
+    "description": "August 20 - 23, 2026 </br></br>Details to be confirmed",
+    "organiser": 12,
+    "className": [
+      "eo-event-cat-kendo",
+      "eo-event-tag-grading",
+      "eo-event-tag-seminar",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-all-day",
+      "eo-event",
+      "eo-future-event",
+      "category-kendo",
+      "tag-grading",
+      "tag-seminar"
+    ],
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "grading",
+      "seminar"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
+    "title": "Mumeishi 3s 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/mumeishi-3s-2026/",
+    "allDay": false,
+    "start": "2026-11-14T09:00:00",
+    "end": "2026-11-15T17:00:00",
+    "description": "November 14, 2026  9:00 am - 15, 2026  5:00 pm</br></br>More information will be available",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-cranford-community-college",
+      "eo-event-cat-kendo",
+      "eo-event-tag-taikai",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-cranford-community-college",
+      "category-kendo",
+      "tag-taikai"
+    ],
+    "venue": 61,
+    "venue_slug": "cranford-community-college",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
       "taikai"
     ],
     "textColor": "#ffffff",
