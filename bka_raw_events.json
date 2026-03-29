@@ -956,7 +956,7 @@
     "className": [
       "eo-event-venue-danetre-and-southbrook-learning-village",
       "eo-event-cat-jodo",
-      "eo-event-running",
+      "eo-event-past",
       "eo-event",
       "eo-past-event",
       "venue-danetre-and-southbrook-learning-village",
@@ -982,9 +982,9 @@
     "className": [
       "eo-event-venue-danetre-and-southbrook-learning-village",
       "eo-event-cat-jodo",
-      "eo-event-future",
+      "eo-event-running",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "venue-danetre-and-southbrook-learning-village",
       "category-jodo"
     ],
