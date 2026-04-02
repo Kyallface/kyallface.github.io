@@ -754,32 +754,6 @@
     "color": "#bbbbbb"
   },
   {
-    "title": "Iaido Intensive Training February 2026 \u2013 Wythall (West Midlands)",
-    "url": "https://www.britishkendoassociation.com/events/event/iaido-intensive-training-february-2026-wythall-west-midlands/",
-    "allDay": false,
-    "start": "2026-02-22T09:15:00",
-    "end": "2026-02-22T16:30:00",
-    "description": "February 22, 2026  9:15 am - 4:30 pm</br></br>Location: Woodrush High School Shawhurst Lane Wythall Worcestershire B47 5JW Important! There will not be time for participants to leave...",
-    "organiser": 3,
-    "className": [
-      "eo-event-venue-woodrush-sports-centre-birmingham",
-      "eo-event-cat-iaido",
-      "eo-event-past",
-      "eo-event",
-      "eo-past-event",
-      "venue-woodrush-sports-centre-birmingham",
-      "category-iaido"
-    ],
-    "venue": 19,
-    "venue_slug": "woodrush-sports-centre-birmingham",
-    "category": [
-      "iaido"
-    ],
-    "tags": [],
-    "textColor": "#000000",
-    "color": "#bbbbbb"
-  },
-  {
     "title": "Iaido Intensive Training February 2026 \u2013 South Shields (North East)",
     "url": "https://www.britishkendoassociation.com/events/event/iaido-intensive-training-february-2026-south-shields-north-east/",
     "allDay": false,
@@ -798,6 +772,32 @@
     ],
     "venue": 249,
     "venue_slug": "harton-academy",
+    "category": [
+      "iaido"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
+  },
+  {
+    "title": "Iaido Intensive Training February 2026 \u2013 Wythall (West Midlands)",
+    "url": "https://www.britishkendoassociation.com/events/event/iaido-intensive-training-february-2026-wythall-west-midlands/",
+    "allDay": false,
+    "start": "2026-02-22T09:15:00",
+    "end": "2026-02-22T16:30:00",
+    "description": "February 22, 2026  9:15 am - 4:30 pm</br></br>Location: Woodrush High School Shawhurst Lane Wythall Worcestershire B47 5JW Important! There will not be time for participants to leave...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-woodrush-sports-centre-birmingham",
+      "eo-event-cat-iaido",
+      "eo-event-past",
+      "eo-event",
+      "eo-past-event",
+      "venue-woodrush-sports-centre-birmingham",
+      "category-iaido"
+    ],
+    "venue": 19,
+    "venue_slug": "woodrush-sports-centre-birmingham",
     "category": [
       "iaido"
     ],
@@ -1355,6 +1355,62 @@
     ],
     "textColor": "#ffffff",
     "color": "#372272"
+  },
+  {
+    "title": "Jodo Summer Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/jodo-summer-seminar-2026/",
+    "allDay": true,
+    "start": "2026-08-06T00:00:00",
+    "end": "2026-08-09T00:00:00",
+    "description": "August 6 - 8, 2026 </br></br>Location: Cambridge University Sports Centre, Phillipa Fawcett Drive, Cambridge, CAMBRIDGESHIRE CB3 0AS Times: Friday - 09:00 Registration for a 09:30...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-cambridge-university-sports-centre",
+      "eo-event-cat-jodo",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-all-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-cambridge-university-sports-centre",
+      "category-jodo"
+    ],
+    "venue": 36,
+    "venue_slug": "cambridge-university-sports-centre",
+    "category": [
+      "jodo"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#ffbc70"
+  },
+  {
+    "title": "Iaido Summer Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/iaido-summer-seminar-2026/",
+    "allDay": true,
+    "start": "2026-08-09T00:00:00",
+    "end": "2026-08-12T00:00:00",
+    "description": "August 9 - 11, 2026 </br></br>Location: Cambridge University Sports Centre, Phillipa Fawcett Drive, Cambridge, CAMBRIDGESHIRE CB3 0AS Times: Friday - 09:00 Registration for a 09:30...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-cambridge-university-sports-centre",
+      "eo-event-cat-iaido",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-all-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-cambridge-university-sports-centre",
+      "category-iaido"
+    ],
+    "venue": 36,
+    "venue_slug": "cambridge-university-sports-centre",
+    "category": [
+      "iaido"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
   },
   {
     "title": "The 7th BKA Summer International Seminar & Grading",
