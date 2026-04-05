@@ -1289,6 +1289,34 @@
     "color": "#ffbc70"
   },
   {
+    "title": "Iaido Nationals 2026 & Intensive Training",
+    "url": "https://www.britishkendoassociation.com/events/event/iaido-nationals-2026/",
+    "allDay": true,
+    "start": "2026-05-30T00:00:00",
+    "end": "2026-06-01T00:00:00",
+    "description": "May 30 - 31, 2026 </br></br>Location: Didcot Girls School (Sports Hall), Manor Crescent, Didcot OX11 7AJ Times: Saturday - 9:30 Registration for a 10:00 start...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-didcot-girls-school",
+      "eo-event-cat-iaido",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-all-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-didcot-girls-school",
+      "category-iaido"
+    ],
+    "venue": 252,
+    "venue_slug": "didcot-girls-school",
+    "category": [
+      "iaido"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
+  },
+  {
     "title": "Western Kendo Seminar & Grading",
     "url": "https://www.britishkendoassociation.com/events/event/western-kendo-seminar-grading/",
     "allDay": false,
