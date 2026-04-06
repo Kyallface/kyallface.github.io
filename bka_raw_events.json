@@ -1441,6 +1441,39 @@
     "color": "#bbbbbb"
   },
   {
+    "title": "Tonbo Cup 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/tonbo-cup-2026/",
+    "allDay": false,
+    "start": "2026-08-15T09:00:00",
+    "end": "2026-08-15T18:00:00",
+    "description": "August 15, 2026  9:00 am - 6:00 pm</br></br>From 9am to 6pm",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-bolton-school",
+      "eo-event-cat-kendo",
+      "eo-event-tag-competition",
+      "eo-event-tag-taikai",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-bolton-school",
+      "category-kendo",
+      "tag-competition",
+      "tag-taikai"
+    ],
+    "venue": 78,
+    "venue_slug": "bolton-school",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "competition",
+      "taikai"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
     "title": "The 7th BKA Summer International Seminar & Grading",
     "url": "https://www.britishkendoassociation.com/events/event/the-7th-bka-summer-international-seminar-grading/",
     "allDay": true,
