@@ -754,32 +754,6 @@
     "color": "#bbbbbb"
   },
   {
-    "title": "Iaido Intensive Training February 2026 \u2013 South Shields (North East)",
-    "url": "https://www.britishkendoassociation.com/events/event/iaido-intensive-training-february-2026-south-shields-north-east/",
-    "allDay": false,
-    "start": "2026-02-22T09:15:00",
-    "end": "2026-02-22T16:30:00",
-    "description": "February 22, 2026  9:15 am - 4:30 pm</br></br>Location: Harton Academy Lisle Road South Shields Tyne &amp; Wear NE34 6DL Important! There will not be time for participants...",
-    "organiser": 3,
-    "className": [
-      "eo-event-venue-harton-academy",
-      "eo-event-cat-iaido",
-      "eo-event-past",
-      "eo-event",
-      "eo-past-event",
-      "venue-harton-academy",
-      "category-iaido"
-    ],
-    "venue": 249,
-    "venue_slug": "harton-academy",
-    "category": [
-      "iaido"
-    ],
-    "tags": [],
-    "textColor": "#000000",
-    "color": "#bbbbbb"
-  },
-  {
     "title": "Iaido Intensive Training February 2026 \u2013 Wythall (West Midlands)",
     "url": "https://www.britishkendoassociation.com/events/event/iaido-intensive-training-february-2026-wythall-west-midlands/",
     "allDay": false,
@@ -798,6 +772,32 @@
     ],
     "venue": 19,
     "venue_slug": "woodrush-sports-centre-birmingham",
+    "category": [
+      "iaido"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
+  },
+  {
+    "title": "Iaido Intensive Training February 2026 \u2013 South Shields (North East)",
+    "url": "https://www.britishkendoassociation.com/events/event/iaido-intensive-training-february-2026-south-shields-north-east/",
+    "allDay": false,
+    "start": "2026-02-22T09:15:00",
+    "end": "2026-02-22T16:30:00",
+    "description": "February 22, 2026  9:15 am - 4:30 pm</br></br>Location: Harton Academy Lisle Road South Shields Tyne &amp; Wear NE34 6DL Important! There will not be time for participants...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-harton-academy",
+      "eo-event-cat-iaido",
+      "eo-event-past",
+      "eo-event",
+      "eo-past-event",
+      "venue-harton-academy",
+      "category-iaido"
+    ],
+    "venue": 249,
+    "venue_slug": "harton-academy",
     "category": [
       "iaido"
     ],
@@ -1183,7 +1183,7 @@
       "eo-event-cat-kendo",
       "eo-event-tag-competition",
       "eo-event-tag-taikai",
-      "eo-event-running",
+      "eo-event-past",
       "eo-multi-day",
       "eo-event",
       "eo-past-event",
@@ -1372,6 +1372,40 @@
     "tags": [
       "grading",
       "seminar"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
+    "title": "The 18th Kodokan Ladies Kendo Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/the-18th-kodokan-ladies-kendo-seminar-2026/",
+    "allDay": false,
+    "start": "2026-06-27T10:00:00",
+    "end": "2026-06-28T17:00:00",
+    "description": "June 27, 2026  10:00 am - 28, 2026  5:00 pm</br></br>Saturday 27th June - seminar 10:00 - 17:00 Sunday 28th June - seminar and 12th Setsuko Kobayashi Cup\u00a0 Seminar fee:...",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-the-dunstable-centre",
+      "eo-event-cat-kendo",
+      "eo-event-tag-seminar",
+      "eo-event-tag-taikai",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-the-dunstable-centre",
+      "category-kendo",
+      "tag-seminar",
+      "tag-taikai"
+    ],
+    "venue": 225,
+    "venue_slug": "the-dunstable-centre",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "seminar",
+      "taikai"
     ],
     "textColor": "#ffffff",
     "color": "#372272"
