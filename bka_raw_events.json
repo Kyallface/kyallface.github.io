@@ -1445,6 +1445,37 @@
     "color": "#372272"
   },
   {
+    "title": "Jodan Seminar with Kataoka Sensei 7th Dan",
+    "url": "https://www.britishkendoassociation.com/events/event/jodan-seminar-with-kataoka-sensei-7th-dan/",
+    "allDay": false,
+    "start": "2026-08-01T09:30:00",
+    "end": "2026-08-02T17:00:00",
+    "description": "August 1, 2026  9:30 am - 2, 2026  5:00 pm</br></br>Saturday 1st Aug: 09:30 - 17:00 (At Strathclyde Sports hall; available from 09:00) Sunday 2nd Aug: 09:30 -17:00 (At Strathclyde...",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-strathclyde-sports-hall",
+      "eo-event-cat-kendo",
+      "eo-event-tag-seminar",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-strathclyde-sports-hall",
+      "category-kendo",
+      "tag-seminar"
+    ],
+    "venue": 253,
+    "venue_slug": "strathclyde-sports-hall",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "seminar"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
     "title": "Jodo Summer Seminar 2026",
     "url": "https://www.britishkendoassociation.com/events/event/jodo-summer-seminar-2026/",
     "allDay": true,
