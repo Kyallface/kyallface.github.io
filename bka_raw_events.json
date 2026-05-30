@@ -1299,11 +1299,11 @@
     "className": [
       "eo-event-venue-didcot-girls-school",
       "eo-event-cat-iaido",
-      "eo-event-future",
+      "eo-event-running",
       "eo-multi-day",
       "eo-all-day",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "venue-didcot-girls-school",
       "category-iaido"
     ],
@@ -1327,9 +1327,9 @@
     "className": [
       "eo-event-venue-kodokan-kendo-club",
       "eo-event-cat-kendo",
-      "eo-event-future",
+      "eo-event-running",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "venue-kodokan-kendo-club",
       "category-kendo"
     ],
