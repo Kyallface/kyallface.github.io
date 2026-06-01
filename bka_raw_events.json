@@ -1299,7 +1299,7 @@
     "className": [
       "eo-event-venue-didcot-girls-school",
       "eo-event-cat-iaido",
-      "eo-event-running",
+      "eo-event-past",
       "eo-multi-day",
       "eo-all-day",
       "eo-event",
@@ -1375,6 +1375,32 @@
     ],
     "textColor": "#ffffff",
     "color": "#372272"
+  },
+  {
+    "title": "Jodo Intensive Training June 2026 \u2013 Byfleet (South & London)",
+    "url": "https://www.britishkendoassociation.com/events/event/jodo-intensive-training-june-2026-byfleet-south-london/",
+    "allDay": false,
+    "start": "2026-06-21T10:00:00",
+    "end": "2026-06-21T17:00:00",
+    "description": "June 21, 2026  10:00 am - 5:00 pm</br></br>Location: Byfleet Village Hall, 54 High Road, West Byfleet, SURREY KT14 7QL Times: 10:00 registration and start - 17:00 finish...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-byfleet-village-hall",
+      "eo-event-cat-jodo",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-byfleet-village-hall",
+      "category-jodo"
+    ],
+    "venue": 254,
+    "venue_slug": "byfleet-village-hall",
+    "category": [
+      "jodo"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#ffbc70"
   },
   {
     "title": "The 18th Kodokan Ladies Kendo Seminar 2026",
