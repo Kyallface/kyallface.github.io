@@ -1235,33 +1235,6 @@
     "color": "#372272"
   },
   {
-    "title": "Iaido West Midlands Seminar 2026",
-    "url": "https://www.britishkendoassociation.com/events/event/iaido-west-midlands-seminar-2026/",
-    "allDay": false,
-    "start": "2026-05-16T09:00:00",
-    "end": "2026-05-17T16:00:00",
-    "description": "May 16, 2026  9:00 am - 17, 2026  4:00 pm</br></br>Location: Shenley Academy, Shenley Lane, Birmingham, West Midlands B29 4HE Times: Saturday - 09:30 Registration for a 10:00 start -...",
-    "organiser": 3,
-    "className": [
-      "eo-event-venue-shenley-academy",
-      "eo-event-cat-iaido",
-      "eo-event-past",
-      "eo-multi-day",
-      "eo-event",
-      "eo-past-event",
-      "venue-shenley-academy",
-      "category-iaido"
-    ],
-    "venue": 244,
-    "venue_slug": "shenley-academy",
-    "category": [
-      "iaido"
-    ],
-    "tags": [],
-    "textColor": "#000000",
-    "color": "#bbbbbb"
-  },
-  {
     "title": "Jodo West Midlands Seminar 2026",
     "url": "https://www.britishkendoassociation.com/events/event/jodo-west-midlands-seminar-2026/",
     "allDay": false,
@@ -1287,6 +1260,33 @@
     "tags": [],
     "textColor": "#000000",
     "color": "#ffbc70"
+  },
+  {
+    "title": "Iaido West Midlands Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/iaido-west-midlands-seminar-2026/",
+    "allDay": false,
+    "start": "2026-05-16T09:00:00",
+    "end": "2026-05-17T16:00:00",
+    "description": "May 16, 2026  9:00 am - 17, 2026  4:00 pm</br></br>Location: Shenley Academy, Shenley Lane, Birmingham, West Midlands B29 4HE Times: Saturday - 09:30 Registration for a 10:00 start -...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-shenley-academy",
+      "eo-event-cat-iaido",
+      "eo-event-past",
+      "eo-multi-day",
+      "eo-event",
+      "eo-past-event",
+      "venue-shenley-academy",
+      "category-iaido"
+    ],
+    "venue": 244,
+    "venue_slug": "shenley-academy",
+    "category": [
+      "iaido"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
   },
   {
     "title": "Iaido Nationals 2026 & Intensive Training",
@@ -1373,6 +1373,33 @@
       "grading",
       "seminar"
     ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
+    "title": "Nenriki Dojo 60th Anniversary Celebration",
+    "url": "https://www.britishkendoassociation.com/events/event/nenriki-dojo-60th-anniversary-celebration/",
+    "allDay": false,
+    "start": "2026-06-13T12:00:00",
+    "end": "2026-06-14T17:00:00",
+    "description": "June 13, 2026  12:00 pm - 14, 2026  5:00 pm</br></br>&nbsp; Presentations, demonstrations &amp; Ono Ha Itto Ryu workshop Please find the schedule and information included in the poster Please...",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-ark-globe-academy-sports-hall",
+      "eo-event-cat-kendo",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-ark-globe-academy-sports-hall",
+      "category-kendo"
+    ],
+    "venue": 194,
+    "venue_slug": "ark-globe-academy-sports-hall",
+    "category": [
+      "kendo"
+    ],
+    "tags": [],
     "textColor": "#ffffff",
     "color": "#372272"
   },
