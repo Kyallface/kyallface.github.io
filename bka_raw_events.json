@@ -1650,9 +1650,10 @@
     "allDay": true,
     "start": "2026-08-20T00:00:00",
     "end": "2026-08-24T00:00:00",
-    "description": "August 20 - 23, 2026 </br></br>Details to be confirmed",
+    "description": "August 20 - 23, 2026 </br></br>Led by Marcus Frey Sensei (7th Dan Kyoshi) and Jean Pierre Labru Sensei (7th Dan Kyoshi) Grading to 5th Dan...",
     "organiser": 12,
     "className": [
+      "eo-event-venue-the-royal-armouries",
       "eo-event-cat-kendo",
       "eo-event-tag-grading",
       "eo-event-tag-seminar",
@@ -1661,10 +1662,13 @@
       "eo-all-day",
       "eo-event",
       "eo-future-event",
+      "venue-the-royal-armouries",
       "category-kendo",
       "tag-grading",
       "tag-seminar"
     ],
+    "venue": 255,
+    "venue_slug": "the-royal-armouries",
     "category": [
       "kendo"
     ],
