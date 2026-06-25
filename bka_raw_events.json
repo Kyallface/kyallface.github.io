@@ -149,34 +149,6 @@
     "color": "#372272"
   },
   {
-    "title": "Iaido Northern Seminar 2025",
-    "url": "https://www.britishkendoassociation.com/events/event/iaido-northern-seminar-2025/",
-    "allDay": true,
-    "start": "2025-11-01T00:00:00",
-    "end": "2025-11-03T00:00:00",
-    "description": "November 1 - 2, 2025 </br></br>Location: Kenton School, Drayton Road, Newcastle upon Tyne NE3 3RU NOTE: Access is via Kenton Road just south of the...",
-    "organiser": 3,
-    "className": [
-      "eo-event-venue-kenton-school",
-      "eo-event-cat-iaido",
-      "eo-event-past",
-      "eo-multi-day",
-      "eo-all-day",
-      "eo-event",
-      "eo-past-event",
-      "venue-kenton-school",
-      "category-iaido"
-    ],
-    "venue": 123,
-    "venue_slug": "kenton-school",
-    "category": [
-      "iaido"
-    ],
-    "tags": [],
-    "textColor": "#000000",
-    "color": "#bbbbbb"
-  },
-  {
     "title": "Jodo Northern Seminar 2025",
     "url": "https://www.britishkendoassociation.com/events/event/jodo-northern-seminar-2025/",
     "allDay": true,
@@ -203,6 +175,34 @@
     "tags": [],
     "textColor": "#000000",
     "color": "#ffbc70"
+  },
+  {
+    "title": "Iaido Northern Seminar 2025",
+    "url": "https://www.britishkendoassociation.com/events/event/iaido-northern-seminar-2025/",
+    "allDay": true,
+    "start": "2025-11-01T00:00:00",
+    "end": "2025-11-03T00:00:00",
+    "description": "November 1 - 2, 2025 </br></br>Location: Kenton School, Drayton Road, Newcastle upon Tyne NE3 3RU NOTE: Access is via Kenton Road just south of the...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-kenton-school",
+      "eo-event-cat-iaido",
+      "eo-event-past",
+      "eo-multi-day",
+      "eo-all-day",
+      "eo-event",
+      "eo-past-event",
+      "venue-kenton-school",
+      "category-iaido"
+    ],
+    "venue": 123,
+    "venue_slug": "kenton-school",
+    "category": [
+      "iaido"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
   },
   {
     "title": "Ladies Kendo & Tea Party",
@@ -298,7 +298,7 @@
   },
   {
     "title": "Squad Kendo Training",
-    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-12/",
+    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-13/",
     "allDay": false,
     "start": "2025-11-22T12:30:00",
     "end": "2025-11-23T13:30:00",
@@ -332,7 +332,7 @@
   },
   {
     "title": "Squad Kendo Training",
-    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-13/",
+    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-12/",
     "allDay": false,
     "start": "2025-11-22T12:30:00",
     "end": "2025-11-23T13:30:00",
@@ -754,32 +754,6 @@
     "color": "#bbbbbb"
   },
   {
-    "title": "Iaido Intensive Training February 2026 \u2013 Wythall (West Midlands)",
-    "url": "https://www.britishkendoassociation.com/events/event/iaido-intensive-training-february-2026-wythall-west-midlands/",
-    "allDay": false,
-    "start": "2026-02-22T09:15:00",
-    "end": "2026-02-22T16:30:00",
-    "description": "February 22, 2026  9:15 am - 4:30 pm</br></br>Location: Woodrush High School Shawhurst Lane Wythall Worcestershire B47 5JW Important! There will not be time for participants to leave...",
-    "organiser": 3,
-    "className": [
-      "eo-event-venue-woodrush-sports-centre-birmingham",
-      "eo-event-cat-iaido",
-      "eo-event-past",
-      "eo-event",
-      "eo-past-event",
-      "venue-woodrush-sports-centre-birmingham",
-      "category-iaido"
-    ],
-    "venue": 19,
-    "venue_slug": "woodrush-sports-centre-birmingham",
-    "category": [
-      "iaido"
-    ],
-    "tags": [],
-    "textColor": "#000000",
-    "color": "#bbbbbb"
-  },
-  {
     "title": "Iaido Intensive Training February 2026 \u2013 South Shields (North East)",
     "url": "https://www.britishkendoassociation.com/events/event/iaido-intensive-training-february-2026-south-shields-north-east/",
     "allDay": false,
@@ -798,6 +772,32 @@
     ],
     "venue": 249,
     "venue_slug": "harton-academy",
+    "category": [
+      "iaido"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
+  },
+  {
+    "title": "Iaido Intensive Training February 2026 \u2013 Wythall (West Midlands)",
+    "url": "https://www.britishkendoassociation.com/events/event/iaido-intensive-training-february-2026-wythall-west-midlands/",
+    "allDay": false,
+    "start": "2026-02-22T09:15:00",
+    "end": "2026-02-22T16:30:00",
+    "description": "February 22, 2026  9:15 am - 4:30 pm</br></br>Location: Woodrush High School Shawhurst Lane Wythall Worcestershire B47 5JW Important! There will not be time for participants to leave...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-woodrush-sports-centre-birmingham",
+      "eo-event-cat-iaido",
+      "eo-event-past",
+      "eo-event",
+      "eo-past-event",
+      "venue-woodrush-sports-centre-birmingham",
+      "category-iaido"
+    ],
+    "venue": 19,
+    "venue_slug": "woodrush-sports-centre-birmingham",
     "category": [
       "iaido"
     ],
@@ -840,33 +840,6 @@
     "color": "#372272"
   },
   {
-    "title": "Jodo Spring Seminar 2026",
-    "url": "https://www.britishkendoassociation.com/events/event/jodo-spring-seminar-2026/",
-    "allDay": false,
-    "start": "2026-03-14T09:30:00",
-    "end": "2026-03-15T16:00:00",
-    "description": "March 14, 2026  9:30 am - 15, 2026  4:00 pm</br></br>Location: The Coleshill Secondary School, Coventry Rd, Coleshill, Birmingham B46 3EX Times: Saturday - 09:30 Registration for a 10:00 start...",
-    "organiser": 3,
-    "className": [
-      "eo-event-venue-coleshill-secondary-school",
-      "eo-event-cat-jodo",
-      "eo-event-past",
-      "eo-multi-day",
-      "eo-event",
-      "eo-past-event",
-      "venue-coleshill-secondary-school",
-      "category-jodo"
-    ],
-    "venue": 246,
-    "venue_slug": "coleshill-secondary-school",
-    "category": [
-      "jodo"
-    ],
-    "tags": [],
-    "textColor": "#000000",
-    "color": "#ffbc70"
-  },
-  {
     "title": "Iaido Spring Seminar 2026",
     "url": "https://www.britishkendoassociation.com/events/event/iaido-spring-seminar-2026/",
     "allDay": false,
@@ -892,6 +865,33 @@
     "tags": [],
     "textColor": "#000000",
     "color": "#bbbbbb"
+  },
+  {
+    "title": "Jodo Spring Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/jodo-spring-seminar-2026/",
+    "allDay": false,
+    "start": "2026-03-14T09:30:00",
+    "end": "2026-03-15T16:00:00",
+    "description": "March 14, 2026  9:30 am - 15, 2026  4:00 pm</br></br>Location: The Coleshill Secondary School, Coventry Rd, Coleshill, Birmingham B46 3EX Times: Saturday - 09:30 Registration for a 10:00 start...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-coleshill-secondary-school",
+      "eo-event-cat-jodo",
+      "eo-event-past",
+      "eo-multi-day",
+      "eo-event",
+      "eo-past-event",
+      "venue-coleshill-secondary-school",
+      "category-jodo"
+    ],
+    "venue": 246,
+    "venue_slug": "coleshill-secondary-school",
+    "category": [
+      "jodo"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#ffbc70"
   },
   {
     "title": "Iaido Intensive Training March 2026 \u2013 North Shields (North East)",
@@ -1235,33 +1235,6 @@
     "color": "#372272"
   },
   {
-    "title": "Iaido West Midlands Seminar 2026",
-    "url": "https://www.britishkendoassociation.com/events/event/iaido-west-midlands-seminar-2026/",
-    "allDay": false,
-    "start": "2026-05-16T09:00:00",
-    "end": "2026-05-17T16:00:00",
-    "description": "May 16, 2026  9:00 am - 17, 2026  4:00 pm</br></br>Location: Shenley Academy, Shenley Lane, Birmingham, West Midlands B29 4HE Times: Saturday - 09:30 Registration for a 10:00 start -...",
-    "organiser": 3,
-    "className": [
-      "eo-event-venue-shenley-academy",
-      "eo-event-cat-iaido",
-      "eo-event-past",
-      "eo-multi-day",
-      "eo-event",
-      "eo-past-event",
-      "venue-shenley-academy",
-      "category-iaido"
-    ],
-    "venue": 244,
-    "venue_slug": "shenley-academy",
-    "category": [
-      "iaido"
-    ],
-    "tags": [],
-    "textColor": "#000000",
-    "color": "#bbbbbb"
-  },
-  {
     "title": "Jodo West Midlands Seminar 2026",
     "url": "https://www.britishkendoassociation.com/events/event/jodo-west-midlands-seminar-2026/",
     "allDay": false,
@@ -1287,6 +1260,33 @@
     "tags": [],
     "textColor": "#000000",
     "color": "#ffbc70"
+  },
+  {
+    "title": "Iaido West Midlands Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/iaido-west-midlands-seminar-2026/",
+    "allDay": false,
+    "start": "2026-05-16T09:00:00",
+    "end": "2026-05-17T16:00:00",
+    "description": "May 16, 2026  9:00 am - 17, 2026  4:00 pm</br></br>Location: Shenley Academy, Shenley Lane, Birmingham, West Midlands B29 4HE Times: Saturday - 09:30 Registration for a 10:00 start -...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-shenley-academy",
+      "eo-event-cat-iaido",
+      "eo-event-past",
+      "eo-multi-day",
+      "eo-event",
+      "eo-past-event",
+      "venue-shenley-academy",
+      "category-iaido"
+    ],
+    "venue": 244,
+    "venue_slug": "shenley-academy",
+    "category": [
+      "iaido"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
   },
   {
     "title": "Iaido Nationals 2026 & Intensive Training",
@@ -1650,7 +1650,7 @@
     "allDay": true,
     "start": "2026-08-20T00:00:00",
     "end": "2026-08-24T00:00:00",
-    "description": "August 20 - 23, 2026 </br></br>Led by Marcus Frey Sensei (7th Dan Kyoshi) and Jean Pierre Labru Sensei (7th Dan Kyoshi) Grading to 5th Dan...",
+    "description": "August 20 - 23, 2026 </br></br>Led by Marcus Frey Sensei (7th Dan Kyoshi) and Jean Pierre Labru Sensei (7th Dan Kyoshi) Brief Schedule: Thursday -...",
     "organiser": 12,
     "className": [
       "eo-event-venue-the-royal-armouries",
@@ -1702,6 +1702,35 @@
     ],
     "venue": 120,
     "venue_slug": "britannia-leisure-centre",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "competition",
+      "taikai"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
+    "title": "The Lidstone Kyusha Taikai 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/the-lidstone-kyusha-taikai-2026/",
+    "allDay": false,
+    "start": "2026-10-10T11:00:00",
+    "end": "2026-10-10T18:30:00",
+    "description": "October 10, 2026  11:00 am - 6:30 pm</br></br>Part of Nenriki Kendo Club 60th Anniversary Celebrations 2026 Details to be confirmed",
+    "organiser": 12,
+    "className": [
+      "eo-event-cat-kendo",
+      "eo-event-tag-competition",
+      "eo-event-tag-taikai",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "category-kendo",
+      "tag-competition",
+      "tag-taikai"
+    ],
     "category": [
       "kendo"
     ],
@@ -1766,6 +1795,29 @@
     "tags": [
       "taikai"
     ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
+    "title": "Nenriki Kendo Club Open Invitation Jigeiko",
+    "url": "https://www.britishkendoassociation.com/events/event/nenriki-kendo-club-open-invitation-jigeiko/",
+    "allDay": true,
+    "start": "2026-11-21T00:00:00",
+    "end": "2026-11-22T00:00:00",
+    "description": "November 21, 2026 </br></br>Part of Nenriki Kendo Club 60th Anniversary Celebrations 2026 Details to be confirmed",
+    "organiser": 12,
+    "className": [
+      "eo-event-cat-kendo",
+      "eo-event-future",
+      "eo-all-day",
+      "eo-event",
+      "eo-future-event",
+      "category-kendo"
+    ],
+    "category": [
+      "kendo"
+    ],
+    "tags": [],
     "textColor": "#ffffff",
     "color": "#372272"
   }
