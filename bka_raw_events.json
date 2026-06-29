@@ -1442,7 +1442,7 @@
       "eo-event-cat-kendo",
       "eo-event-tag-seminar",
       "eo-event-tag-taikai",
-      "eo-event-running",
+      "eo-event-past",
       "eo-multi-day",
       "eo-event",
       "eo-past-event",
@@ -1489,6 +1489,32 @@
     "tags": [],
     "textColor": "#000000",
     "color": "#ffbc70"
+  },
+  {
+    "title": "Iaido Intensive Training July 2026 \u2013 Cambridge (East England)",
+    "url": "https://www.britishkendoassociation.com/events/event/iaido-intensive-training-july-2026-cambridge-east-england/",
+    "allDay": false,
+    "start": "2026-07-19T09:15:00",
+    "end": "2026-07-19T16:30:00",
+    "description": "July 19, 2026  9:15 am - 4:30 pm</br></br>Location: Cambridge University Sports Centre, Phillipa Fawcett Drive, Cambridge CB3 0AS Training is in the upper level hall. Important! There...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-cambridge-university-sports-centre",
+      "eo-event-cat-iaido",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-cambridge-university-sports-centre",
+      "category-iaido"
+    ],
+    "venue": 36,
+    "venue_slug": "cambridge-university-sports-centre",
+    "category": [
+      "iaido"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
   },
   {
     "title": "Masters Taikai & British Open",
