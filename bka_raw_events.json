@@ -840,33 +840,6 @@
     "color": "#372272"
   },
   {
-    "title": "Iaido Spring Seminar 2026",
-    "url": "https://www.britishkendoassociation.com/events/event/iaido-spring-seminar-2026/",
-    "allDay": false,
-    "start": "2026-03-14T09:30:00",
-    "end": "2026-03-15T16:00:00",
-    "description": "March 14, 2026  9:30 am - 15, 2026  4:00 pm</br></br>Location: West Coventry Academy, Tile Hill Ln, Coventry CV4 9PW Times: Saturday - 09:30 Registration for a 10:00 start -...",
-    "organiser": 3,
-    "className": [
-      "eo-event-venue-west-coventry-academy",
-      "eo-event-cat-iaido",
-      "eo-event-past",
-      "eo-multi-day",
-      "eo-event",
-      "eo-past-event",
-      "venue-west-coventry-academy",
-      "category-iaido"
-    ],
-    "venue": 245,
-    "venue_slug": "west-coventry-academy",
-    "category": [
-      "iaido"
-    ],
-    "tags": [],
-    "textColor": "#000000",
-    "color": "#bbbbbb"
-  },
-  {
     "title": "Jodo Spring Seminar 2026",
     "url": "https://www.britishkendoassociation.com/events/event/jodo-spring-seminar-2026/",
     "allDay": false,
@@ -892,6 +865,33 @@
     "tags": [],
     "textColor": "#000000",
     "color": "#ffbc70"
+  },
+  {
+    "title": "Iaido Spring Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/iaido-spring-seminar-2026/",
+    "allDay": false,
+    "start": "2026-03-14T09:30:00",
+    "end": "2026-03-15T16:00:00",
+    "description": "March 14, 2026  9:30 am - 15, 2026  4:00 pm</br></br>Location: West Coventry Academy, Tile Hill Ln, Coventry CV4 9PW Times: Saturday - 09:30 Registration for a 10:00 start -...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-west-coventry-academy",
+      "eo-event-cat-iaido",
+      "eo-event-past",
+      "eo-multi-day",
+      "eo-event",
+      "eo-past-event",
+      "venue-west-coventry-academy",
+      "category-iaido"
+    ],
+    "venue": 245,
+    "venue_slug": "west-coventry-academy",
+    "category": [
+      "iaido"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
   },
   {
     "title": "Iaido Intensive Training March 2026 \u2013 North Shields (North East)",
@@ -1235,33 +1235,6 @@
     "color": "#372272"
   },
   {
-    "title": "Jodo West Midlands Seminar 2026",
-    "url": "https://www.britishkendoassociation.com/events/event/jodo-west-midlands-seminar-2026/",
-    "allDay": false,
-    "start": "2026-05-16T09:00:00",
-    "end": "2026-05-17T16:00:00",
-    "description": "May 16, 2026  9:00 am - 17, 2026  4:00 pm</br></br>Location: Shenley Academy, Shenley Lane, Birmingham, West Midlands B29 4HE Times: Saturday - 09:30 Registration for a 10:30 start -...",
-    "organiser": 3,
-    "className": [
-      "eo-event-venue-shenley-academy",
-      "eo-event-cat-jodo",
-      "eo-event-past",
-      "eo-multi-day",
-      "eo-event",
-      "eo-past-event",
-      "venue-shenley-academy",
-      "category-jodo"
-    ],
-    "venue": 244,
-    "venue_slug": "shenley-academy",
-    "category": [
-      "jodo"
-    ],
-    "tags": [],
-    "textColor": "#000000",
-    "color": "#ffbc70"
-  },
-  {
     "title": "Iaido West Midlands Seminar 2026",
     "url": "https://www.britishkendoassociation.com/events/event/iaido-west-midlands-seminar-2026/",
     "allDay": false,
@@ -1287,6 +1260,33 @@
     "tags": [],
     "textColor": "#000000",
     "color": "#bbbbbb"
+  },
+  {
+    "title": "Jodo West Midlands Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/jodo-west-midlands-seminar-2026/",
+    "allDay": false,
+    "start": "2026-05-16T09:00:00",
+    "end": "2026-05-17T16:00:00",
+    "description": "May 16, 2026  9:00 am - 17, 2026  4:00 pm</br></br>Location: Shenley Academy, Shenley Lane, Birmingham, West Midlands B29 4HE Times: Saturday - 09:30 Registration for a 10:30 start -...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-shenley-academy",
+      "eo-event-cat-jodo",
+      "eo-event-past",
+      "eo-multi-day",
+      "eo-event",
+      "eo-past-event",
+      "venue-shenley-academy",
+      "category-jodo"
+    ],
+    "venue": 244,
+    "venue_slug": "shenley-academy",
+    "category": [
+      "jodo"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#ffbc70"
   },
   {
     "title": "Iaido Nationals 2026 & Intensive Training",
@@ -1489,6 +1489,32 @@
     "tags": [],
     "textColor": "#000000",
     "color": "#ffbc70"
+  },
+  {
+    "title": "Iaido Intensive Training July 2026 \u2013 Edinburgh (Scotland)",
+    "url": "https://www.britishkendoassociation.com/events/event/iaido-intensive-training-july-2026-edinburgh-scotland/",
+    "allDay": false,
+    "start": "2026-07-18T09:30:00",
+    "end": "2026-07-18T15:30:00",
+    "description": "July 18, 2026  9:30 am - 3:30 pm</br></br>Location: Queen Margaret University Queen Margaret University Way Musselburgh EH21 6UU Important! There will not be time for participants to...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-queen-margaret-university",
+      "eo-event-cat-iaido",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-queen-margaret-university",
+      "category-iaido"
+    ],
+    "venue": 49,
+    "venue_slug": "queen-margaret-university",
+    "category": [
+      "iaido"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
   },
   {
     "title": "Iaido Intensive Training July 2026 \u2013 Cambridge (East England)",
