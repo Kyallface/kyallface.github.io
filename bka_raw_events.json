@@ -1820,6 +1820,37 @@
     "color": "#372272"
   },
   {
+    "title": "The Winter Kendo Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/the-winter-kendo-seminar-2026/",
+    "allDay": false,
+    "start": "2026-10-30T22:00:00",
+    "end": "2026-11-01T12:00:00",
+    "description": "October 30, 2026  10:00 pm - November 1, 2026  12:00 pm</br></br>Led by: Christian Filipe - Kyoshi 7th Dan Tibor B\u00e1r\u00e1ny - Kyoshi 7th Dan &nbsp; Friday 20:00 - 22:00 Saturday...",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-the-sir-matt-busby-sports-complex",
+      "eo-event-cat-kendo",
+      "eo-event-tag-seminar",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-the-sir-matt-busby-sports-complex",
+      "category-kendo",
+      "tag-seminar"
+    ],
+    "venue": 226,
+    "venue_slug": "the-sir-matt-busby-sports-complex",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "seminar"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
     "title": "Mumeishi 3s 2026",
     "url": "https://www.britishkendoassociation.com/events/event/mumeishi-3s-2026/",
     "allDay": false,
