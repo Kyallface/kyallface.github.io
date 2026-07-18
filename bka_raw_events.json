@@ -1501,9 +1501,9 @@
     "className": [
       "eo-event-venue-queen-margaret-university",
       "eo-event-cat-iaido",
-      "eo-event-future",
+      "eo-event-running",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "venue-queen-margaret-university",
       "category-iaido"
     ],
@@ -1548,7 +1548,7 @@
     "allDay": false,
     "start": "2026-07-25T10:00:00",
     "end": "2026-07-26T17:00:00",
-    "description": "July 25, 2026  10:00 am - 26, 2026  5:00 pm</br></br>25th July Saturday - Masters Taikai (Teams) 26th July Sunday - British Open (Individuals) &nbsp; *Each Dojo can only register...",
+    "description": "July 25, 2026  10:00 am - 26, 2026  5:00 pm</br></br>25th July Saturday - Masters Taikai (Teams) Hall opens at 09:00 Registration closes at 10:00 Opening ceremony 10:05 Start competition...",
     "organiser": 12,
     "className": [
       "eo-event-venue-loddon-valley-leisure-centre",
