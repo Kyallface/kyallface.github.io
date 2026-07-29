@@ -1235,33 +1235,6 @@
     "color": "#372272"
   },
   {
-    "title": "Iaido West Midlands Seminar 2026",
-    "url": "https://www.britishkendoassociation.com/events/event/iaido-west-midlands-seminar-2026/",
-    "allDay": false,
-    "start": "2026-05-16T09:00:00",
-    "end": "2026-05-17T16:00:00",
-    "description": "May 16, 2026  9:00 am - 17, 2026  4:00 pm</br></br>Location: Shenley Academy, Shenley Lane, Birmingham, West Midlands B29 4HE Times: Saturday - 09:30 Registration for a 10:00 start -...",
-    "organiser": 3,
-    "className": [
-      "eo-event-venue-shenley-academy",
-      "eo-event-cat-iaido",
-      "eo-event-past",
-      "eo-multi-day",
-      "eo-event",
-      "eo-past-event",
-      "venue-shenley-academy",
-      "category-iaido"
-    ],
-    "venue": 244,
-    "venue_slug": "shenley-academy",
-    "category": [
-      "iaido"
-    ],
-    "tags": [],
-    "textColor": "#000000",
-    "color": "#bbbbbb"
-  },
-  {
     "title": "Jodo West Midlands Seminar 2026",
     "url": "https://www.britishkendoassociation.com/events/event/jodo-west-midlands-seminar-2026/",
     "allDay": false,
@@ -1287,6 +1260,33 @@
     "tags": [],
     "textColor": "#000000",
     "color": "#ffbc70"
+  },
+  {
+    "title": "Iaido West Midlands Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/iaido-west-midlands-seminar-2026/",
+    "allDay": false,
+    "start": "2026-05-16T09:00:00",
+    "end": "2026-05-17T16:00:00",
+    "description": "May 16, 2026  9:00 am - 17, 2026  4:00 pm</br></br>Location: Shenley Academy, Shenley Lane, Birmingham, West Midlands B29 4HE Times: Saturday - 09:30 Registration for a 10:00 start -...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-shenley-academy",
+      "eo-event-cat-iaido",
+      "eo-event-past",
+      "eo-multi-day",
+      "eo-event",
+      "eo-past-event",
+      "venue-shenley-academy",
+      "category-iaido"
+    ],
+    "venue": 244,
+    "venue_slug": "shenley-academy",
+    "category": [
+      "iaido"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
   },
   {
     "title": "Iaido Nationals 2026 & Intensive Training",
@@ -1815,6 +1815,36 @@
     ],
     "tags": [
       "seminar"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
+    "title": "October London Grading",
+    "url": "https://www.britishkendoassociation.com/events/event/october-london-grading/",
+    "allDay": false,
+    "start": "2026-10-25T09:00:00",
+    "end": "2026-10-25T17:00:00",
+    "description": "October 25, 2026  9:00 am - 5:00 pm</br></br>Details to be confirmed",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-gunnersbury-park-sports-hub",
+      "eo-event-cat-kendo",
+      "eo-event-tag-grading",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-gunnersbury-park-sports-hub",
+      "category-kendo",
+      "tag-grading"
+    ],
+    "venue": 219,
+    "venue_slug": "gunnersbury-park-sports-hub",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "grading"
     ],
     "textColor": "#ffffff",
     "color": "#372272"
