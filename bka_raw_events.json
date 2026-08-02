@@ -1794,6 +1794,38 @@
     "color": "#372272"
   },
   {
+    "title": "Kendo Seminar in Memory of Masatake Sumi Sensei",
+    "url": "https://www.britishkendoassociation.com/events/event/kendo-seminar-in-memory-of-masatake-sumi-sensei/",
+    "allDay": true,
+    "start": "2026-10-23T00:00:00",
+    "end": "2026-10-26T00:00:00",
+    "description": "October 23 - 25, 2026 </br></br>Full details are available via the link below: https://kodokankendo.uk/index.php/2026/07/29/kendo-seminar-in-memory-of-masatake-sumi-sensei/",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-the-dunstable-centre",
+      "eo-event-cat-kendo",
+      "eo-event-tag-seminar",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-all-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-the-dunstable-centre",
+      "category-kendo",
+      "tag-seminar"
+    ],
+    "venue": 225,
+    "venue_slug": "the-dunstable-centre",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "seminar"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
     "title": "Wakaba Junior Seminar",
     "url": "https://www.britishkendoassociation.com/events/event/wakaba-junior-seminar/",
     "allDay": false,
