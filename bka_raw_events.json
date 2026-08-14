@@ -840,33 +840,6 @@
     "color": "#372272"
   },
   {
-    "title": "Jodo Spring Seminar 2026",
-    "url": "https://www.britishkendoassociation.com/events/event/jodo-spring-seminar-2026/",
-    "allDay": false,
-    "start": "2026-03-14T09:30:00",
-    "end": "2026-03-15T16:00:00",
-    "description": "March 14, 2026  9:30 am - 15, 2026  4:00 pm</br></br>Location: The Coleshill Secondary School, Coventry Rd, Coleshill, Birmingham B46 3EX Times: Saturday - 09:30 Registration for a 10:00 start...",
-    "organiser": 3,
-    "className": [
-      "eo-event-venue-coleshill-secondary-school",
-      "eo-event-cat-jodo",
-      "eo-event-past",
-      "eo-multi-day",
-      "eo-event",
-      "eo-past-event",
-      "venue-coleshill-secondary-school",
-      "category-jodo"
-    ],
-    "venue": 246,
-    "venue_slug": "coleshill-secondary-school",
-    "category": [
-      "jodo"
-    ],
-    "tags": [],
-    "textColor": "#000000",
-    "color": "#ffbc70"
-  },
-  {
     "title": "Iaido Spring Seminar 2026",
     "url": "https://www.britishkendoassociation.com/events/event/iaido-spring-seminar-2026/",
     "allDay": false,
@@ -892,6 +865,33 @@
     "tags": [],
     "textColor": "#000000",
     "color": "#bbbbbb"
+  },
+  {
+    "title": "Jodo Spring Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/jodo-spring-seminar-2026/",
+    "allDay": false,
+    "start": "2026-03-14T09:30:00",
+    "end": "2026-03-15T16:00:00",
+    "description": "March 14, 2026  9:30 am - 15, 2026  4:00 pm</br></br>Location: The Coleshill Secondary School, Coventry Rd, Coleshill, Birmingham B46 3EX Times: Saturday - 09:30 Registration for a 10:00 start...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-coleshill-secondary-school",
+      "eo-event-cat-jodo",
+      "eo-event-past",
+      "eo-multi-day",
+      "eo-event",
+      "eo-past-event",
+      "venue-coleshill-secondary-school",
+      "category-jodo"
+    ],
+    "venue": 246,
+    "venue_slug": "coleshill-secondary-school",
+    "category": [
+      "jodo"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#ffbc70"
   },
   {
     "title": "Iaido Intensive Training March 2026 \u2013 North Shields (North East)",
@@ -1963,6 +1963,40 @@
       "kendo"
     ],
     "tags": [],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
+    "title": "Western Kendo Seminar & Grading 2027",
+    "url": "https://www.britishkendoassociation.com/events/event/western-kendo-seminar-grading-2027/",
+    "allDay": false,
+    "start": "2027-06-04T18:30:00",
+    "end": "2027-06-06T17:00:00",
+    "description": "June 4, 2027  6:30 pm - 6, 2027  5:00 pm</br></br>Friday 6:30pm ~ 8:30pm Saturday 9:00am ~ 5:30pm Sunday 9:00am ~ 5:00pm (Grading included) &nbsp; More information to be given....",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-uwe",
+      "eo-event-cat-kendo",
+      "eo-event-tag-grading",
+      "eo-event-tag-seminar",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-uwe",
+      "category-kendo",
+      "tag-grading",
+      "tag-seminar"
+    ],
+    "venue": 218,
+    "venue_slug": "uwe",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "grading",
+      "seminar"
+    ],
     "textColor": "#ffffff",
     "color": "#372272"
   }
