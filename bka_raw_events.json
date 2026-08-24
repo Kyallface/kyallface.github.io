@@ -298,7 +298,7 @@
   },
   {
     "title": "Squad Kendo Training",
-    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-13/",
+    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-12/",
     "allDay": false,
     "start": "2025-11-22T12:30:00",
     "end": "2025-11-23T13:30:00",
@@ -332,7 +332,7 @@
   },
   {
     "title": "Squad Kendo Training",
-    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-12/",
+    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-13/",
     "allDay": false,
     "start": "2025-11-22T12:30:00",
     "end": "2025-11-23T13:30:00",
@@ -1709,7 +1709,7 @@
       "eo-event-cat-kendo",
       "eo-event-tag-grading",
       "eo-event-tag-seminar",
-      "eo-event-running",
+      "eo-event-past",
       "eo-multi-day",
       "eo-all-day",
       "eo-event",
@@ -1756,6 +1756,34 @@
     "tags": [],
     "textColor": "#000000",
     "color": "#bbbbbb"
+  },
+  {
+    "title": "Eishinkan Jodo Taikai 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/eishinkan-jodo-taikai-2026/",
+    "allDay": true,
+    "start": "2026-09-12T00:00:00",
+    "end": "2026-09-14T00:00:00",
+    "description": "September 12 - 13, 2026 </br></br>Times: Saturday - Main taikai: 9:00 Hall open for a 9:45 start - 17:00 finish. Premises must be vacated by...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-kenmukan-dojo",
+      "eo-event-cat-jodo",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-all-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-kenmukan-dojo",
+      "category-jodo"
+    ],
+    "venue": 25,
+    "venue_slug": "kenmukan-dojo",
+    "category": [
+      "jodo"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#ffbc70"
   },
   {
     "title": "3rd Wakaba Junior Shiai and Godogeiko Event",
