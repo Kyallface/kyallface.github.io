@@ -1994,12 +1994,12 @@
     "color": "#372272"
   },
   {
-    "title": "October London Grading",
+    "title": "The BKA London Grading",
     "url": "https://www.britishkendoassociation.com/events/event/october-london-grading/",
     "allDay": false,
     "start": "2026-10-25T09:00:00",
     "end": "2026-10-25T17:00:00",
-    "description": "October 25, 2026  9:00 am - 5:00 pm</br></br>Details to be confirmed",
+    "description": "October 25, 2026  9:00 am - 5:00 pm</br></br>Grading up to Godan &nbsp; Please register via your BKA membership page.",
     "organiser": 12,
     "className": [
       "eo-event-venue-gunnersbury-park-sports-hub",
@@ -2105,6 +2105,36 @@
       "kendo"
     ],
     "tags": [],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
+    "title": "The BKA London Grading",
+    "url": "https://www.britishkendoassociation.com/events/event/the-bka-london-grading/",
+    "allDay": false,
+    "start": "2027-01-24T09:00:00",
+    "end": "2027-01-24T17:00:00",
+    "description": "January 24, 2027  9:00 am - 5:00 pm</br></br>Grading up to Yondan Special junior practice and Godo-geiko included. &nbsp; Please register via your BKA membership page. (NOT OPEN)",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-george-green-school",
+      "eo-event-cat-kendo",
+      "eo-event-tag-grading",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-george-green-school",
+      "category-kendo",
+      "tag-grading"
+    ],
+    "venue": 213,
+    "venue_slug": "george-green-school",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "grading"
+    ],
     "textColor": "#ffffff",
     "color": "#372272"
   },
