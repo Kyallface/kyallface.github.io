@@ -1768,7 +1768,7 @@
     "className": [
       "eo-event-venue-kenmukan-dojo",
       "eo-event-cat-jodo",
-      "eo-event-running",
+      "eo-event-past",
       "eo-multi-day",
       "eo-all-day",
       "eo-event",
@@ -2134,6 +2134,39 @@
     ],
     "tags": [
       "grading"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
+    "title": "Kaizen Cup Kendo Taikai",
+    "url": "https://www.britishkendoassociation.com/events/event/kaizen-cup-kendo-taikai/",
+    "allDay": false,
+    "start": "2027-03-27T09:00:00",
+    "end": "2027-03-27T18:00:00",
+    "description": "March 27, 2027  9:00 am - 6:00 pm</br></br>This is a Taikai for senior Kendo players over 40 years old. Morning - Mixed individuals (3 catagories included: 40~49,...",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-fenton-manor-sports-complex",
+      "eo-event-cat-kendo",
+      "eo-event-tag-competition",
+      "eo-event-tag-taikai",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-fenton-manor-sports-complex",
+      "category-kendo",
+      "tag-competition",
+      "tag-taikai"
+    ],
+    "venue": 114,
+    "venue_slug": "fenton-manor-sports-complex",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "competition",
+      "taikai"
     ],
     "textColor": "#ffffff",
     "color": "#372272"
