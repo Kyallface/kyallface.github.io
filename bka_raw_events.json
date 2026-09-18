@@ -1819,6 +1819,33 @@
     "color": "#372272"
   },
   {
+    "title": "Oxford Kendo Examination Seminar",
+    "url": "https://www.britishkendoassociation.com/events/event/oxford-kendo-examination-seminar/",
+    "allDay": false,
+    "start": "2026-10-02T19:00:00",
+    "end": "2026-10-04T12:30:00",
+    "description": "October 2, 2026  7:00 pm - 4, 2026  12:30 pm</br></br>Held by Oxford Kendo Club Led by Yasuyuki Hiyama Sensei (Kyoshi 7th Dan) and Zenjiro Hamada Sensei (7th Dan) This...",
+    "organiser": 12,
+    "className": [
+      "eo-event-cat-kendo",
+      "eo-event-tag-seminar",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "category-kendo",
+      "tag-seminar"
+    ],
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "seminar"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
     "title": "JodoBu AGM 2026",
     "url": "https://www.britishkendoassociation.com/events/event/jodobu-agm-2026/",
     "allDay": false,
