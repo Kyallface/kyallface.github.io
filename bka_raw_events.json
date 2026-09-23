@@ -2113,6 +2113,36 @@
     "color": "#372272"
   },
   {
+    "title": "Bristol Seminar Led by James Ogle Sensei",
+    "url": "https://www.britishkendoassociation.com/events/event/bristol-seminar-led-by-james-ogle-sensei/",
+    "allDay": false,
+    "start": "2026-11-29T09:00:00",
+    "end": "2026-11-29T18:00:00",
+    "description": "November 29, 2026  9:00 am - 6:00 pm</br></br>Planned programme: Introduction of programme and warm up Development of your cutting action to make your strikes more successful Linking...",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-sports-hall",
+      "eo-event-cat-kendo",
+      "eo-event-tag-seminar",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-sports-hall",
+      "category-kendo",
+      "tag-seminar"
+    ],
+    "venue": 257,
+    "venue_slug": "sports-hall",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "seminar"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
     "title": "The BKA London Grading",
     "url": "https://www.britishkendoassociation.com/events/event/the-bka-london-grading/",
     "allDay": false,
