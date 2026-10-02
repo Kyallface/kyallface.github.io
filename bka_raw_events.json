@@ -1941,6 +1941,32 @@
     "color": "#372272"
   },
   {
+    "title": "Iaido Intensive Training October 2026 \u2013 Wythall (West Midlands)",
+    "url": "https://www.britishkendoassociation.com/events/event/iaido-intensive-training-october-2026-wythall-west-midlands/",
+    "allDay": false,
+    "start": "2026-10-18T09:00:00",
+    "end": "2026-10-18T16:30:00",
+    "description": "October 18, 2026  9:00 am - 4:30 pm</br></br>Location: Woodrush High School Shawhurst Lane Wythall Worcestershire B47 5JW Important! There will not be time for participants to leave...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-woodrush-sports-centre-birmingham",
+      "eo-event-cat-iaido",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-woodrush-sports-centre-birmingham",
+      "category-iaido"
+    ],
+    "venue": 19,
+    "venue_slug": "woodrush-sports-centre-birmingham",
+    "category": [
+      "iaido"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
+  },
+  {
     "title": "BKA NC AGM 2026",
     "url": "https://www.britishkendoassociation.com/events/event/bka-nc-agm-2026/",
     "allDay": false,
