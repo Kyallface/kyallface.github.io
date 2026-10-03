@@ -1829,10 +1829,10 @@
     "className": [
       "eo-event-cat-kendo",
       "eo-event-tag-seminar",
-      "eo-event-future",
+      "eo-event-running",
       "eo-multi-day",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "category-kendo",
       "tag-seminar"
     ],
@@ -1855,9 +1855,9 @@
     "organiser": 3,
     "className": [
       "eo-event-cat-bka",
-      "eo-event-future",
+      "eo-event-past",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "category-bka"
     ],
     "category": [
@@ -1877,9 +1877,9 @@
     "organiser": 3,
     "className": [
       "eo-event-cat-bka",
-      "eo-event-future",
+      "eo-event-past",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "category-bka"
     ],
     "category": [
@@ -1899,9 +1899,9 @@
     "organiser": 3,
     "className": [
       "eo-event-cat-bka",
-      "eo-event-future",
+      "eo-event-running",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "category-bka"
     ],
     "category": [
@@ -1936,6 +1936,36 @@
     "tags": [
       "competition",
       "taikai"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
+    "title": "Wakaba Junior Seminar",
+    "url": "https://www.britishkendoassociation.com/events/event/wakaba-junior-seminar/",
+    "allDay": false,
+    "start": "2026-10-17T14:00:00",
+    "end": "2026-10-17T18:00:00",
+    "description": "October 17, 2026  2:00 pm - 6:00 pm</br></br>*The date has been changed to 17th October. &nbsp; This is a new junior kendo seminar led by Wakaba senior...",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-britannia-leisure-centre",
+      "eo-event-cat-kendo",
+      "eo-event-tag-seminar",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-britannia-leisure-centre",
+      "category-kendo",
+      "tag-seminar"
+    ],
+    "venue": 120,
+    "venue_slug": "britannia-leisure-centre",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "seminar"
     ],
     "textColor": "#ffffff",
     "color": "#372272"
@@ -2011,32 +2041,6 @@
     ],
     "venue": 225,
     "venue_slug": "the-dunstable-centre",
-    "category": [
-      "kendo"
-    ],
-    "tags": [
-      "seminar"
-    ],
-    "textColor": "#ffffff",
-    "color": "#372272"
-  },
-  {
-    "title": "Wakaba Junior Seminar",
-    "url": "https://www.britishkendoassociation.com/events/event/wakaba-junior-seminar/",
-    "allDay": false,
-    "start": "2026-10-24T12:00:00",
-    "end": "2026-10-24T17:00:00",
-    "description": "October 24, 2026  12:00 pm - 5:00 pm</br></br>This is a new junior kendo seminar led by Wakaba senior competitors. Registration fees for this event will be donated...",
-    "organiser": 12,
-    "className": [
-      "eo-event-cat-kendo",
-      "eo-event-tag-seminar",
-      "eo-event-future",
-      "eo-event",
-      "eo-future-event",
-      "category-kendo",
-      "tag-seminar"
-    ],
     "category": [
       "kendo"
     ],
@@ -2194,6 +2198,103 @@
     ],
     "tags": [
       "grading"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
+    "title": "Yondan / Godan Coaching Day",
+    "url": "https://www.britishkendoassociation.com/events/event/yondan-godan-coaching-day/",
+    "allDay": true,
+    "start": "2027-02-20T00:00:00",
+    "end": "2027-02-21T00:00:00",
+    "description": "February 20, 2027 </br></br>A focussed day on the skill set required for Godan and Rokudan. &nbsp; Led by Gary O\u2019Donnell Sensei, and supported...",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-cleeve-school-and-sports-centre",
+      "eo-event-cat-kendo",
+      "eo-event-tag-seminar",
+      "eo-event-future",
+      "eo-all-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-cleeve-school-and-sports-centre",
+      "category-kendo",
+      "tag-seminar"
+    ],
+    "venue": 260,
+    "venue_slug": "cleeve-school-and-sports-centre",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "seminar"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
+    "title": "Seminar Led by Tashiro Sensei",
+    "url": "https://www.britishkendoassociation.com/events/event/seminar-led-by-tashiro-sensei/",
+    "allDay": false,
+    "start": "2027-03-06T10:00:00",
+    "end": "2027-03-07T16:00:00",
+    "description": "March 6, 2027  10:00 am - 7, 2027  4:00 pm</br></br>Hosted by Kashi No Ki Kenyu Kai. Details to be given.",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-west-notts-college",
+      "eo-event-cat-kendo",
+      "eo-event-tag-seminar",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-west-notts-college",
+      "category-kendo",
+      "tag-seminar"
+    ],
+    "venue": 259,
+    "venue_slug": "west-notts-college",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "seminar"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
+    "title": "University Taikai 2027",
+    "url": "https://www.britishkendoassociation.com/events/event/university-taikai-2027/",
+    "allDay": true,
+    "start": "2027-03-20T00:00:00",
+    "end": "2027-03-22T00:00:00",
+    "description": "March 20 - 21, 2027 </br></br>Details to be given.",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-ethos-sports-centre",
+      "eo-event-cat-kendo",
+      "eo-event-tag-competition",
+      "eo-event-tag-taikai",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-all-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-ethos-sports-centre",
+      "category-kendo",
+      "tag-competition",
+      "tag-taikai"
+    ],
+    "venue": 258,
+    "venue_slug": "ethos-sports-centre",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "competition",
+      "taikai"
     ],
     "textColor": "#ffffff",
     "color": "#372272"
