@@ -1980,9 +1980,9 @@
       "eo-event-venue-britannia-leisure-centre",
       "eo-event-cat-kendo",
       "eo-event-tag-seminar",
-      "eo-event-future",
+      "eo-event-past",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "venue-britannia-leisure-centre",
       "category-kendo",
       "tag-seminar"
@@ -2009,9 +2009,9 @@
     "className": [
       "eo-event-venue-woodrush-sports-centre-birmingham",
       "eo-event-cat-iaido",
-      "eo-event-future",
+      "eo-event-running",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "venue-woodrush-sports-centre-birmingham",
       "category-iaido"
     ],
@@ -2034,9 +2034,9 @@
     "organiser": 3,
     "className": [
       "eo-event-cat-bka",
-      "eo-event-future",
+      "eo-event-running",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "category-bka"
     ],
     "category": [
