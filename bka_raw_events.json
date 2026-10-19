@@ -2009,7 +2009,7 @@
     "className": [
       "eo-event-venue-woodrush-sports-centre-birmingham",
       "eo-event-cat-iaido",
-      "eo-event-running",
+      "eo-event-past",
       "eo-event",
       "eo-past-event",
       "venue-woodrush-sports-centre-birmingham",
@@ -2034,7 +2034,7 @@
     "organiser": 3,
     "className": [
       "eo-event-cat-bka",
-      "eo-event-running",
+      "eo-event-past",
       "eo-event",
       "eo-past-event",
       "category-bka"
@@ -2258,21 +2258,21 @@
     "allDay": false,
     "start": "2026-11-29T09:00:00",
     "end": "2026-11-29T18:00:00",
-    "description": "November 29, 2026  9:00 am - 6:00 pm</br></br>Planned programme: Introduction of programme and warm up Development of your cutting action to make your strikes more successful Linking...",
+    "description": "November 29, 2026  9:00 am - 6:00 pm</br></br>Address: Sports Hall, Redmaid\u2019s High School Bristol, Westbury Road, Westbury-on-Trym , Bristol, BS9 3AW &nbsp; Planned programme: Introduction of programme...",
     "organiser": 12,
     "className": [
-      "eo-event-venue-sports-hall",
+      "eo-event-venue-sports-hall-redmaids-high-school-bristol",
       "eo-event-cat-kendo",
       "eo-event-tag-seminar",
       "eo-event-future",
       "eo-event",
       "eo-future-event",
-      "venue-sports-hall",
+      "venue-sports-hall-redmaids-high-school-bristol",
       "category-kendo",
       "tag-seminar"
     ],
-    "venue": 257,
-    "venue_slug": "sports-hall",
+    "venue": 262,
+    "venue_slug": "sports-hall-redmaids-high-school-bristol",
     "category": [
       "kendo"
     ],
