@@ -460,7 +460,7 @@
   },
   {
     "title": "Squad Kendo Training",
-    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-12/",
+    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-14/",
     "allDay": false,
     "start": "2025-12-13T12:30:00",
     "end": "2025-12-14T13:30:00",
@@ -494,7 +494,7 @@
   },
   {
     "title": "Squad Kendo Training",
-    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-14/",
+    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-12/",
     "allDay": false,
     "start": "2025-12-13T12:30:00",
     "end": "2025-12-14T13:30:00",
@@ -2251,6 +2251,36 @@
     "tags": [],
     "textColor": "#000000",
     "color": "#bbbbbb"
+  },
+  {
+    "title": "Nenriki Dojo 60th Anniversary: Referees Seminar / Godogeiko / Celebratory Dinner",
+    "url": "https://www.britishkendoassociation.com/events/event/nenriki-dojo-60th-anniversary-referees-seminar-godogeiko-celebratory-dinner/",
+    "allDay": false,
+    "start": "2026-11-21T10:00:00",
+    "end": "2026-11-21T18:00:00",
+    "description": "November 21, 2026  10:00 am - 6:00 pm</br></br>Join us for a special day celebrating Nenriki Dojo\u2019s 60th Anniversary! Date: Saturday, 21 November 2026 Address: Harris Academy Bermondsey,...",
+    "organiser": 12,
+    "className": [
+      "eo-event-venue-harris-academy-bermondsey",
+      "eo-event-cat-kendo",
+      "eo-event-tag-seminar",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "venue-harris-academy-bermondsey",
+      "category-kendo",
+      "tag-seminar"
+    ],
+    "venue": 263,
+    "venue_slug": "harris-academy-bermondsey",
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "seminar"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
   },
   {
     "title": "Bristol Seminar Led by James Ogle Sensei",
