@@ -2199,33 +2199,6 @@
     "color": "#372272"
   },
   {
-    "title": "Iaido Northern Seminar 2026",
-    "url": "https://www.britishkendoassociation.com/events/event/iaido-northern-seminar-2026/",
-    "allDay": false,
-    "start": "2026-11-21T09:30:00",
-    "end": "2026-11-22T17:00:00",
-    "description": "November 21, 2026  9:30 am - 22, 2026  5:00 pm</br></br>Location: Boldon School, New Road, Boldon Colliery, Tyne and Wear NE35 9DZ Times: Saturday - 09:30 Registration for a 10:00...",
-    "organiser": 3,
-    "className": [
-      "eo-event-venue-boldon-school",
-      "eo-event-cat-iaido",
-      "eo-event-future",
-      "eo-multi-day",
-      "eo-event",
-      "eo-future-event",
-      "venue-boldon-school",
-      "category-iaido"
-    ],
-    "venue": 256,
-    "venue_slug": "boldon-school",
-    "category": [
-      "iaido"
-    ],
-    "tags": [],
-    "textColor": "#000000",
-    "color": "#bbbbbb"
-  },
-  {
     "title": "Jodo Northern Seminar 2026",
     "url": "https://www.britishkendoassociation.com/events/event/jodo-northern-seminar-2026/",
     "allDay": false,
@@ -2251,6 +2224,33 @@
     "tags": [],
     "textColor": "#000000",
     "color": "#ffbc70"
+  },
+  {
+    "title": "Iaido Northern Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/iaido-northern-seminar-2026/",
+    "allDay": false,
+    "start": "2026-11-21T09:30:00",
+    "end": "2026-11-22T17:00:00",
+    "description": "November 21, 2026  9:30 am - 22, 2026  5:00 pm</br></br>Location: Boldon School, New Road, Boldon Colliery, Tyne and Wear NE35 9DZ Times: Saturday - 09:30 Registration for a 10:00...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-boldon-school",
+      "eo-event-cat-iaido",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-event",
+      "eo-future-event",
+      "venue-boldon-school",
+      "category-iaido"
+    ],
+    "venue": 256,
+    "venue_slug": "boldon-school",
+    "category": [
+      "iaido"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#bbbbbb"
   },
   {
     "title": "Nenriki Dojo 60th Anniversary: Referees Seminar / Godogeiko / Celebratory Dinner",
@@ -2615,6 +2615,37 @@
     "tags": [
       "grading",
       "seminar"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
+    "title": "The 21st Annual Thistle Cup",
+    "url": "https://www.britishkendoassociation.com/events/event/the-21st-annual-thistle-cup/",
+    "allDay": true,
+    "start": "2027-09-24T00:00:00",
+    "end": "2027-09-27T00:00:00",
+    "description": "September 24 - 26, 2027 </br></br>Hosted by Aberdeen Kendo Club Friday Evening: mini-seminar with Yamazaki Sensei Saturday: The Thistle Cup Taikai Sunday: Japan Day cultural...",
+    "organiser": 12,
+    "className": [
+      "eo-event-cat-kendo",
+      "eo-event-tag-seminar",
+      "eo-event-tag-taikai",
+      "eo-event-future",
+      "eo-multi-day",
+      "eo-all-day",
+      "eo-event",
+      "eo-future-event",
+      "category-kendo",
+      "tag-seminar",
+      "tag-taikai"
+    ],
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "seminar",
+      "taikai"
     ],
     "textColor": "#ffffff",
     "color": "#372272"
