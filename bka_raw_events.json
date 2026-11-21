@@ -2209,10 +2209,10 @@
     "className": [
       "eo-event-venue-boldon-school",
       "eo-event-cat-jodo",
-      "eo-event-future",
+      "eo-event-running",
       "eo-multi-day",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "venue-boldon-school",
       "category-jodo"
     ],
@@ -2236,10 +2236,10 @@
     "className": [
       "eo-event-venue-boldon-school",
       "eo-event-cat-iaido",
-      "eo-event-future",
+      "eo-event-running",
       "eo-multi-day",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "venue-boldon-school",
       "category-iaido"
     ],
@@ -2264,9 +2264,9 @@
       "eo-event-venue-harris-academy-bermondsey",
       "eo-event-cat-kendo",
       "eo-event-tag-seminar",
-      "eo-event-future",
+      "eo-event-running",
       "eo-event",
-      "eo-future-event",
+      "eo-past-event",
       "venue-harris-academy-bermondsey",
       "category-kendo",
       "tag-seminar"
