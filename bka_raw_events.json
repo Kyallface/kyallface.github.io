@@ -298,7 +298,7 @@
   },
   {
     "title": "Squad Kendo Training",
-    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-13/",
+    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-12/",
     "allDay": false,
     "start": "2025-11-22T12:30:00",
     "end": "2025-11-23T13:30:00",
@@ -332,7 +332,7 @@
   },
   {
     "title": "Squad Kendo Training",
-    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-12/",
+    "url": "https://www.britishkendoassociation.com/events/event/squad-kendo-training-13/",
     "allDay": false,
     "start": "2025-11-22T12:30:00",
     "end": "2025-11-23T13:30:00",
@@ -840,33 +840,6 @@
     "color": "#372272"
   },
   {
-    "title": "Jodo Spring Seminar 2026",
-    "url": "https://www.britishkendoassociation.com/events/event/jodo-spring-seminar-2026/",
-    "allDay": false,
-    "start": "2026-03-14T09:30:00",
-    "end": "2026-03-15T16:00:00",
-    "description": "March 14, 2026  9:30 am - 15, 2026  4:00 pm</br></br>Location: The Coleshill Secondary School, Coventry Rd, Coleshill, Birmingham B46 3EX Times: Saturday - 09:30 Registration for a 10:00 start...",
-    "organiser": 3,
-    "className": [
-      "eo-event-venue-coleshill-secondary-school",
-      "eo-event-cat-jodo",
-      "eo-event-past",
-      "eo-multi-day",
-      "eo-event",
-      "eo-past-event",
-      "venue-coleshill-secondary-school",
-      "category-jodo"
-    ],
-    "venue": 246,
-    "venue_slug": "coleshill-secondary-school",
-    "category": [
-      "jodo"
-    ],
-    "tags": [],
-    "textColor": "#000000",
-    "color": "#ffbc70"
-  },
-  {
     "title": "Iaido Spring Seminar 2026",
     "url": "https://www.britishkendoassociation.com/events/event/iaido-spring-seminar-2026/",
     "allDay": false,
@@ -892,6 +865,33 @@
     "tags": [],
     "textColor": "#000000",
     "color": "#bbbbbb"
+  },
+  {
+    "title": "Jodo Spring Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/jodo-spring-seminar-2026/",
+    "allDay": false,
+    "start": "2026-03-14T09:30:00",
+    "end": "2026-03-15T16:00:00",
+    "description": "March 14, 2026  9:30 am - 15, 2026  4:00 pm</br></br>Location: The Coleshill Secondary School, Coventry Rd, Coleshill, Birmingham B46 3EX Times: Saturday - 09:30 Registration for a 10:00 start...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-coleshill-secondary-school",
+      "eo-event-cat-jodo",
+      "eo-event-past",
+      "eo-multi-day",
+      "eo-event",
+      "eo-past-event",
+      "venue-coleshill-secondary-school",
+      "category-jodo"
+    ],
+    "venue": 246,
+    "venue_slug": "coleshill-secondary-school",
+    "category": [
+      "jodo"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#ffbc70"
   },
   {
     "title": "Iaido Intensive Training March 2026 \u2013 North Shields (North East)",
@@ -2199,33 +2199,6 @@
     "color": "#372272"
   },
   {
-    "title": "Jodo Northern Seminar 2026",
-    "url": "https://www.britishkendoassociation.com/events/event/jodo-northern-seminar-2026/",
-    "allDay": false,
-    "start": "2026-11-21T09:30:00",
-    "end": "2026-11-22T17:00:00",
-    "description": "November 21, 2026  9:30 am - 22, 2026  5:00 pm</br></br>Location: Boldon School, New Road, Boldon Colliery, Tyne and Wear NE35 9DZ Times: Saturday - 09:00 Registration for a 09:30...",
-    "organiser": 3,
-    "className": [
-      "eo-event-venue-boldon-school",
-      "eo-event-cat-jodo",
-      "eo-event-running",
-      "eo-multi-day",
-      "eo-event",
-      "eo-past-event",
-      "venue-boldon-school",
-      "category-jodo"
-    ],
-    "venue": 256,
-    "venue_slug": "boldon-school",
-    "category": [
-      "jodo"
-    ],
-    "tags": [],
-    "textColor": "#000000",
-    "color": "#ffbc70"
-  },
-  {
     "title": "Iaido Northern Seminar 2026",
     "url": "https://www.britishkendoassociation.com/events/event/iaido-northern-seminar-2026/",
     "allDay": false,
@@ -2236,7 +2209,7 @@
     "className": [
       "eo-event-venue-boldon-school",
       "eo-event-cat-iaido",
-      "eo-event-running",
+      "eo-event-past",
       "eo-multi-day",
       "eo-event",
       "eo-past-event",
@@ -2253,6 +2226,33 @@
     "color": "#bbbbbb"
   },
   {
+    "title": "Jodo Northern Seminar 2026",
+    "url": "https://www.britishkendoassociation.com/events/event/jodo-northern-seminar-2026/",
+    "allDay": false,
+    "start": "2026-11-21T09:30:00",
+    "end": "2026-11-22T17:00:00",
+    "description": "November 21, 2026  9:30 am - 22, 2026  5:00 pm</br></br>Location: Boldon School, New Road, Boldon Colliery, Tyne and Wear NE35 9DZ Times: Saturday - 09:00 Registration for a 09:30...",
+    "organiser": 3,
+    "className": [
+      "eo-event-venue-boldon-school",
+      "eo-event-cat-jodo",
+      "eo-event-past",
+      "eo-multi-day",
+      "eo-event",
+      "eo-past-event",
+      "venue-boldon-school",
+      "category-jodo"
+    ],
+    "venue": 256,
+    "venue_slug": "boldon-school",
+    "category": [
+      "jodo"
+    ],
+    "tags": [],
+    "textColor": "#000000",
+    "color": "#ffbc70"
+  },
+  {
     "title": "Nenriki Dojo 60th Anniversary: Referees Seminar / Godogeiko / Celebratory Dinner",
     "url": "https://www.britishkendoassociation.com/events/event/nenriki-dojo-60th-anniversary-referees-seminar-godogeiko-celebratory-dinner/",
     "allDay": false,
@@ -2264,7 +2264,7 @@
       "eo-event-venue-harris-academy-bermondsey",
       "eo-event-cat-kendo",
       "eo-event-tag-seminar",
-      "eo-event-running",
+      "eo-event-past",
       "eo-event",
       "eo-past-event",
       "venue-harris-academy-bermondsey",
@@ -2341,6 +2341,32 @@
     "color": "#372272"
   },
   {
+    "title": "Greyfriars Cup 2027",
+    "url": "https://www.britishkendoassociation.com/events/event/greyfriars-cup-2027/",
+    "allDay": false,
+    "start": "2027-01-23T10:00:00",
+    "end": "2027-01-23T19:00:00",
+    "description": "January 23, 2027  10:00 am - 7:00 pm</br></br>&nbsp; Address: Heriot's Centre for Sport &amp; Exercise, Grassmarket, up the Hunters Close, EH1 2HJ, Edinburgh, EH3 9HE",
+    "organiser": 12,
+    "className": [
+      "eo-event-cat-kendo",
+      "eo-event-tag-taikai",
+      "eo-event-future",
+      "eo-event",
+      "eo-future-event",
+      "category-kendo",
+      "tag-taikai"
+    ],
+    "category": [
+      "kendo"
+    ],
+    "tags": [
+      "taikai"
+    ],
+    "textColor": "#ffffff",
+    "color": "#372272"
+  },
+  {
     "title": "The BKA London Grading",
     "url": "https://www.britishkendoassociation.com/events/event/the-bka-london-grading/",
     "allDay": false,
@@ -2402,12 +2428,12 @@
     "color": "#372272"
   },
   {
-    "title": "Seminar Led by Tashiro Sensei",
-    "url": "https://www.britishkendoassociation.com/events/event/seminar-led-by-tashiro-sensei/",
+    "title": "Tashiro Seminar 2027 at Kashi No Ki",
+    "url": "https://www.britishkendoassociation.com/events/event/tashiro-seminar-2027-at-kashi-no-ki/",
     "allDay": false,
     "start": "2027-03-06T10:00:00",
     "end": "2027-03-07T16:00:00",
-    "description": "March 6, 2027  10:00 am - 7, 2027  4:00 pm</br></br>Hosted by Kashi No Ki Kenyu Kai. Details to be given.",
+    "description": "March 6, 2027  10:00 am - 7, 2027  4:00 pm</br></br>For more information please check the link below: https://www.kashinokikendo.co.uk/post/tashiro-seminar-comes-to-kashi-no-ki-in-2027 &nbsp; Please register via the link below: https://docs.google.com/forms/d/e/1FAIpQLScSpvCp9PMQn6wx6NfLST20uJobeoYKZeUF61Ko9KG6fqffsg/viewform?usp=header",
     "organiser": 12,
     "className": [
       "eo-event-venue-west-notts-college",
@@ -2433,12 +2459,12 @@
     "color": "#372272"
   },
   {
-    "title": "Tashiro Seminar 2027 at Kashi No Ki",
-    "url": "https://www.britishkendoassociation.com/events/event/tashiro-seminar-2027-at-kashi-no-ki/",
+    "title": "Seminar Led by Tashiro Sensei",
+    "url": "https://www.britishkendoassociation.com/events/event/seminar-led-by-tashiro-sensei/",
     "allDay": false,
     "start": "2027-03-06T10:00:00",
     "end": "2027-03-07T16:00:00",
-    "description": "March 6, 2027  10:00 am - 7, 2027  4:00 pm</br></br>For more information please check the link below: https://www.kashinokikendo.co.uk/post/tashiro-seminar-comes-to-kashi-no-ki-in-2027 &nbsp; Please register via the link below: https://docs.google.com/forms/d/e/1FAIpQLScSpvCp9PMQn6wx6NfLST20uJobeoYKZeUF61Ko9KG6fqffsg/viewform?usp=header",
+    "description": "March 6, 2027  10:00 am - 7, 2027  4:00 pm</br></br>Hosted by Kashi No Ki Kenyu Kai. Details to be given.",
     "organiser": 12,
     "className": [
       "eo-event-venue-west-notts-college",
